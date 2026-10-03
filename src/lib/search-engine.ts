@@ -95,6 +95,14 @@ export function parseRawQueryToClues(rawQuery: string): StructuredClues {
     }
   });
 
+  const groupPeople = ['college friends', 'friends', 'roommate', 'family', 'cousin', 'coworker'];
+  groupPeople.forEach(group => {
+    if (queryLower.includes(group)) {
+      if (!clues.people) clues.people = [];
+      if (!clues.people.includes(group)) clues.people.push(group);
+    }
+  });
+
   if (/\b(me|myself|you|my|self)\b/.test(queryLower)) {
     if (!clues.people) clues.people = [];
     if (!clues.people.includes('me')) clues.people.push('me');
@@ -115,12 +123,13 @@ export function parseRawQueryToClues(rawQuery: string): StructuredClues {
     'sunset', 'sunrise', 'beach', 'ocean', 'sea', 'waves',
     'campfire', 'guitar', 'acoustic guitar', 'singing', 'tent', 'camping',
     'concert', 'coldplay', 'ticket', 'flight', 'receipt', 'swiggy', 'coffee',
-    'hiking', 'volleyball', 'pizza', 'birthday', 'dog', 'snow'
+    'hiking', 'volleyball', 'pizza', 'birthday', 'dog', 'snow',
+    'having dinner', 'dinner', 'dining', 'lunch', 'breakfast', 'party', 'farewell', 'celebration'
   ];
 
   tagKeywords.forEach(tag => {
     if (queryLower.includes(tag)) {
-      if (tag.includes('bike') || tag.includes('bicycle') || tag.includes('riding') || tag.includes('hiking') || tag.includes('singing') || tag.includes('camping')) {
+      if (tag.includes('bike') || tag.includes('bicycle') || tag.includes('riding') || tag.includes('hiking') || tag.includes('singing') || tag.includes('camping') || tag.includes('dinner') || tag.includes('dining') || tag.includes('eating')) {
         if (!clues.activities) clues.activities = [];
         if (!clues.activities.includes(tag)) clues.activities.push(tag);
       } else {
@@ -409,6 +418,55 @@ export function evaluateWeakResults(
 }
 
 /**
+ * Count how many specific non-date, non-generic-self matched clues a candidate item satisfied.
+ */
+function getSpecificMatchCount(matchedClues: string[]): number {
+  return matchedClues.filter(clue => {
+    if (clue.startsWith('Timeframe')) return false;
+    if (clue === 'Person: You (self)') return false;
+    if (clue === 'Category: photo') return false;
+    return true;
+  }).length;
+}
+
+/**
+ * Count how many specific (non-generic-self, non-date) dimensions were expressed in structured clues.
+ */
+function getSpecificDimensionsCount(clues: StructuredClues): number {
+  let count = 0;
+  const selfTerms = new Set(['me', 'myself', 'you', 'my', 'self', 'owner', 'alex']);
+
+  if (clues.category && clues.category !== 'photo') {
+    count++;
+  }
+
+  if (clues.people && clues.people.length > 0) {
+    const hasSpecificPerson = clues.people.some(p => !selfTerms.has(p.toLowerCase()));
+    if (hasSpecificPerson) count++;
+  }
+
+  if (clues.location && (clues.location.city || clues.location.name || clues.location.country || clues.location.setting)) {
+    count++;
+  }
+
+  if (clues.activities && clues.activities.length > 0) {
+    count++;
+  }
+
+  const hasTagsOrEvent = Boolean(
+    (clues.objects && clues.objects.length > 0) ||
+    (clues.visual_tags && clues.visual_tags.length > 0) ||
+    clues.event ||
+    clues.ocr_text
+  );
+  if (hasTagsOrEvent) {
+    count++;
+  }
+
+  return count;
+}
+
+/**
  * Execute a complete deterministic retrieval pass against the dataset.
  */
 export function retrievePhotos(
@@ -435,7 +493,7 @@ export function retrievePhotos(
   const highestScore = candidates[0]?.score || 0;
 
   if (highestScore > 0) {
-    // Determine whether non-date retrieval clues are present in the query
+    const specificDimCount = getSpecificDimensionsCount(query.clues);
     const hasNonDateClues = Boolean(
       query.clues.category ||
       (query.clues.people && query.clues.people.length > 0) ||
@@ -447,24 +505,45 @@ export function retrievePhotos(
       query.clues.ocr_text
     );
 
-    // Hybrid Significance Threshold: candidates must reach at least 20% of highest score
-    const minScoreThreshold = 0.20 * highestScore;
+    let eligible = candidates.filter(item => item.score > 0);
 
-    candidates = candidates.filter(item => {
-      // 1. Must have positive score
-      if (item.score <= 0) return false;
+    // 1. When non-date clues are present, candidate must match at least one non-date dimension
+    if (hasNonDateClues) {
+      eligible = eligible.filter(item => item.matched_clues.some(clue => !clue.startsWith('Timeframe')));
+    }
 
-      // 2. Must meet significance threshold relative to top score
-      if (item.score < minScoreThreshold) return false;
+    // 2. Progressive Relevance Strategy for Multi-Clue Queries
+    if (specificDimCount >= 1) {
+      // Filter out candidates that match ONLY generic self identity ("Person: You (self)") or generic category ("Category: photo")
+      const specificMatches = eligible.filter(item => getSpecificMatchCount(item.matched_clues) >= 1);
 
-      // 3. When non-date clues are present, candidate must match at least one non-date dimension
-      if (hasNonDateClues) {
-        const hasNonDateMatch = item.matched_clues.some(clue => !clue.startsWith('Timeframe'));
-        if (!hasNonDateMatch) return false;
+      if (specificMatches.length > 0) {
+        eligible = specificMatches;
+
+        // For multi-clue queries (2+ specific dimensions expressed), prioritize strong multi-clue candidates
+        if (specificDimCount >= 2) {
+          const strongMatches = eligible.filter(item => getSpecificMatchCount(item.matched_clues) >= 2);
+
+          if (strongMatches.length >= 2) {
+            const topStrongScore = strongMatches[0].score;
+            eligible = eligible.filter(item => {
+              const matches = getSpecificMatchCount(item.matched_clues);
+              if (matches >= 2) return true;
+              return item.score >= 0.60 * topStrongScore;
+            });
+          }
+        }
       }
+    }
 
-      return true;
-    });
+    // 3. Hybrid Significance Threshold relative to highest eligible score
+    if (eligible.length > 0) {
+      const topEligibleScore = eligible[0].score;
+      const minScoreThreshold = 0.20 * topEligibleScore;
+      candidates = eligible.filter(item => item.score >= minScoreThreshold);
+    } else {
+      candidates = eligible;
+    }
   }
 
   // Evaluate weak result condition
