@@ -1,0 +1,5805 @@
+[
+  {
+    "id": "photo-001",
+    "filename": "dataset/photo-001.svg",
+    "title": "Alex Riding Mountain Bike on Forest Trail",
+    "description": "Alex Riding Mountain Bike on Forest Trail",
+    "date": "2024-07-15",
+    "year": 2024,
+    "month": 7,
+    "season": "summer",
+    "location": {
+      "name": "Pine Forest Trail",
+      "city": "Manali",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "self"
+    ],
+    "activities": [
+      "biking",
+      "riding mountain bike"
+    ],
+    "objects": [
+      "mountain bike",
+      "helmet",
+      "pine trees"
+    ],
+    "event": "Summer Mountain Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "mountain bike",
+      "forest",
+      "trail",
+      "trees",
+      "sunny",
+      "cycling"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-002",
+    "filename": "dataset/photo-002.svg",
+    "title": "City Commuter Bicycle Parked by Coffee Shop",
+    "description": "City Commuter Bicycle Parked by Coffee Shop",
+    "date": "2024-05-10",
+    "year": 2024,
+    "month": 5,
+    "season": "spring",
+    "location": {
+      "name": "Blue Tokai Coffee",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [],
+    "activities": [
+      "cycling",
+      "coffee break"
+    ],
+    "objects": [
+      "commuter bike",
+      "coffee cup",
+      "brick wall"
+    ],
+    "event": "Weekend Coffee Run",
+    "category": "photo",
+    "visual_tags": [
+      "bicycle",
+      "coffee",
+      "urban",
+      "street",
+      "cafe"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-003",
+    "filename": "dataset/photo-003.svg",
+    "title": "Road Bike Resting on Coastal Highway",
+    "description": "Road Bike Resting on Coastal Highway",
+    "date": "2023-11-04",
+    "year": 2023,
+    "month": 11,
+    "season": "autumn",
+    "location": {
+      "name": "Marine Drive",
+      "city": "Mumbai",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan"
+    ],
+    "activities": [
+      "cycling",
+      "road biking"
+    ],
+    "objects": [
+      "road bike",
+      "ocean",
+      "guardrail"
+    ],
+    "event": "Coastal Ride 2023",
+    "category": "photo",
+    "visual_tags": [
+      "bicycle",
+      "ocean",
+      "highway",
+      "coastline",
+      "road bike"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-004",
+    "filename": "dataset/photo-004.svg",
+    "title": "Alex Riding Bicycle in City Park",
+    "description": "Alex Riding Bicycle in City Park",
+    "date": "2024-04-20",
+    "year": 2024,
+    "month": 4,
+    "season": "spring",
+    "location": {
+      "name": "Cubbon Park",
+      "city": "Bengaluru",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "self"
+    ],
+    "activities": [
+      "biking",
+      "casual riding"
+    ],
+    "objects": [
+      "hybrid bike",
+      "park bench",
+      "green grass"
+    ],
+    "event": "Spring Park Outing",
+    "category": "photo",
+    "visual_tags": [
+      "bicycle",
+      "park",
+      "greenery",
+      "trees",
+      "cycling"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-005",
+    "filename": "dataset/photo-005.svg",
+    "title": "Vintage Bicycle Against Brick Wall",
+    "description": "Vintage Bicycle Against Brick Wall",
+    "date": "2023-09-12",
+    "year": 2023,
+    "month": 9,
+    "season": "autumn",
+    "location": {
+      "name": "Old Town Alley",
+      "city": "Jaipur",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "vintage bicycle",
+      "basket",
+      "brick wall"
+    ],
+    "event": "Heritage Walk",
+    "category": "photo",
+    "visual_tags": [
+      "vintage bike",
+      "architecture",
+      "rustic",
+      "brick"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-006",
+    "filename": "dataset/photo-006.svg",
+    "title": "Mountain Bike Leaning Against Pine Tree",
+    "description": "Mountain Bike Leaning Against Pine Tree",
+    "date": "2024-07-16",
+    "year": 2024,
+    "month": 7,
+    "season": "summer",
+    "location": {
+      "name": "Pine Forest Trail",
+      "city": "Manali",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [],
+    "activities": [
+      "resting"
+    ],
+    "objects": [
+      "mountain bike",
+      "pine trees",
+      "dirt trail"
+    ],
+    "event": "Summer Mountain Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "mountain bike",
+      "forest",
+      "trail",
+      "trees",
+      "nature"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-007",
+    "filename": "dataset/photo-007.svg",
+    "title": "Group of Cyclists Riding Mountain Pass",
+    "description": "Group of Cyclists Riding Mountain Pass",
+    "date": "2023-06-18",
+    "year": 2023,
+    "month": 6,
+    "season": "summer",
+    "location": {
+      "name": "Rohtang Pass",
+      "city": "Ladakh",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Rohan",
+      "Vikram",
+      "self"
+    ],
+    "activities": [
+      "group cycling",
+      "touring"
+    ],
+    "objects": [
+      "bicycles",
+      "helmets",
+      "snow mountains"
+    ],
+    "event": "Himalayan Expedition",
+    "category": "photo",
+    "visual_tags": [
+      "bicycles",
+      "mountains",
+      "group",
+      "snow",
+      "cycling"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-008",
+    "filename": "dataset/photo-008.svg",
+    "title": "Alex Hiking on Forest Trail (No Bike)",
+    "description": "Alex Hiking on Forest Trail (No Bike)",
+    "date": "2024-07-17",
+    "year": 2024,
+    "month": 7,
+    "season": "summer",
+    "location": {
+      "name": "Pine Forest Trail",
+      "city": "Manali",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "self"
+    ],
+    "activities": [
+      "hiking",
+      "walking"
+    ],
+    "objects": [
+      "backpack",
+      "hiking boots",
+      "pine trees"
+    ],
+    "event": "Summer Mountain Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "forest",
+      "trail",
+      "hiking",
+      "backpack",
+      "trees"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-009",
+    "filename": "dataset/photo-009.svg",
+    "title": "Electric Cargo Bike in Shopping Plaza",
+    "description": "Electric Cargo Bike in Shopping Plaza",
+    "date": "2024-08-05",
+    "year": 2024,
+    "month": 8,
+    "season": "summer",
+    "location": {
+      "name": "Connaught Place",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [],
+    "activities": [
+      "shopping"
+    ],
+    "objects": [
+      "cargo bike",
+      "shopping bags"
+    ],
+    "event": "Weekend Shopping",
+    "category": "photo",
+    "visual_tags": [
+      "electric bike",
+      "shopping",
+      "city",
+      "plaza"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-010",
+    "filename": "dataset/photo-010.svg",
+    "title": "Bicycle Helmet and Gloves on Wooden Table",
+    "description": "Bicycle Helmet and Gloves on Wooden Table",
+    "date": "2024-07-15",
+    "year": 2024,
+    "month": 7,
+    "season": "summer",
+    "location": {
+      "name": "Trailside Cafe",
+      "city": "Manali",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "self"
+    ],
+    "activities": [
+      "rest break"
+    ],
+    "objects": [
+      "helmet",
+      "gloves",
+      "water bottle"
+    ],
+    "event": "Summer Mountain Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "gear",
+      "helmet",
+      "cycling",
+      "table"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-011",
+    "filename": "dataset/photo-011.svg",
+    "title": "Bicycle Maintenance Workshop with Tools",
+    "description": "Bicycle Maintenance Workshop with Tools",
+    "date": "2024-03-11",
+    "year": 2024,
+    "month": 3,
+    "season": "spring",
+    "location": {
+      "name": "Garage Workshop",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Rohan"
+    ],
+    "activities": [
+      "repairing bike"
+    ],
+    "objects": [
+      "tools",
+      "bike wheel",
+      "chain lube"
+    ],
+    "event": "Spring Bike Tune-up",
+    "category": "photo",
+    "visual_tags": [
+      "workshop",
+      "tools",
+      "repair",
+      "bicycle"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-012",
+    "filename": "dataset/photo-012.svg",
+    "title": "Children's Tricycle in Sunny Back Garden",
+    "description": "Children's Tricycle in Sunny Back Garden",
+    "date": "2023-05-14",
+    "year": 2023,
+    "month": 5,
+    "season": "spring",
+    "location": {
+      "name": "Home Garden",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Maya"
+    ],
+    "activities": [
+      "playing"
+    ],
+    "objects": [
+      "tricycle",
+      "lawn",
+      "toys"
+    ],
+    "event": "Family Garden Afternoon",
+    "category": "photo",
+    "visual_tags": [
+      "tricycle",
+      "garden",
+      "kids",
+      "sunny"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-013",
+    "filename": "dataset/photo-013.svg",
+    "title": "Sunrise Over Ocean Beach in Bali",
+    "description": "Sunrise Over Ocean Beach in Bali",
+    "date": "2024-01-10",
+    "year": 2024,
+    "month": 1,
+    "season": "winter",
+    "location": {
+      "name": "Sanur Beach",
+      "city": "Bali",
+      "country": "Indonesia",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Maya"
+    ],
+    "activities": [
+      "watching sunrise"
+    ],
+    "objects": [
+      "ocean",
+      "waves",
+      "sun"
+    ],
+    "event": "Bali Winter Vacation",
+    "category": "photo",
+    "visual_tags": [
+      "sunrise",
+      "beach",
+      "ocean",
+      "waves",
+      "sky"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-014",
+    "filename": "dataset/photo-014.svg",
+    "title": "Beach Volleyball Match at Midday",
+    "description": "Beach Volleyball Match at Midday",
+    "date": "2023-12-18",
+    "year": 2023,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Baga Beach",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan",
+      "Vikram"
+    ],
+    "activities": [
+      "playing volleyball",
+      "sports"
+    ],
+    "objects": [
+      "volleyball",
+      "net",
+      "sand"
+    ],
+    "event": "Goa Trip Dec 2023",
+    "category": "photo",
+    "visual_tags": [
+      "beach",
+      "volleyball",
+      "sports",
+      "sand",
+      "sunny"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-015",
+    "filename": "dataset/photo-015.svg",
+    "title": "Golden Hour Sunset Over City Skyline",
+    "description": "Golden Hour Sunset Over City Skyline",
+    "date": "2024-02-14",
+    "year": 2024,
+    "month": 2,
+    "season": "winter",
+    "location": {
+      "name": "Rooftop Lounge",
+      "city": "Mumbai",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Priya"
+    ],
+    "activities": [
+      "dining",
+      "watching sunset"
+    ],
+    "objects": [
+      "skyscrapers",
+      "sun",
+      "glasses"
+    ],
+    "event": "Valentine Dinner",
+    "category": "photo",
+    "visual_tags": [
+      "sunset",
+      "skyline",
+      "city",
+      "golden hour"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-016",
+    "filename": "dataset/photo-016.svg",
+    "title": "Sunset Over Mountain Range Valley",
+    "description": "Sunset Over Mountain Range Valley",
+    "date": "2023-10-05",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Tiger Hill",
+      "city": "Darjeeling",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [],
+    "activities": [
+      "sightseeing"
+    ],
+    "objects": [
+      "mountains",
+      "clouds",
+      "sun"
+    ],
+    "event": "Darjeeling Trip",
+    "category": "photo",
+    "visual_tags": [
+      "sunset",
+      "mountains",
+      "clouds",
+      "landscape"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-017",
+    "filename": "dataset/photo-017.svg",
+    "title": "Beach Umbrella and Sun Loungers in Goa",
+    "description": "Beach Umbrella and Sun Loungers in Goa",
+    "date": "2023-12-19",
+    "year": 2023,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Palolem Beach",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [],
+    "activities": [
+      "relaxing"
+    ],
+    "objects": [
+      "umbrella",
+      "loungers",
+      "sand",
+      "palm trees"
+    ],
+    "event": "Goa Trip Dec 2023",
+    "category": "photo",
+    "visual_tags": [
+      "beach",
+      "umbrella",
+      "resort",
+      "palm trees",
+      "sand"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-018",
+    "filename": "dataset/photo-018.svg",
+    "title": "People Walking on Shoreline at Dusk",
+    "description": "People Walking on Shoreline at Dusk",
+    "date": "2023-12-20",
+    "year": 2023,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Anjuna Beach",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "walking",
+      "strolling"
+    ],
+    "objects": [
+      "ocean",
+      "sand",
+      "waves"
+    ],
+    "event": "Goa Trip Dec 2023",
+    "category": "photo",
+    "visual_tags": [
+      "beach",
+      "sunset",
+      "walking",
+      "silhouette"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-019",
+    "filename": "dataset/photo-019.svg",
+    "title": "Tropical Beach with Palm Trees in Goa",
+    "description": "Tropical Beach with Palm Trees in Goa",
+    "date": "2023-12-21",
+    "year": 2023,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Agonda Beach",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Maya"
+    ],
+    "activities": [
+      "swimming",
+      "vacationing"
+    ],
+    "objects": [
+      "palm trees",
+      "ocean",
+      "blue sky"
+    ],
+    "event": "Goa Trip Dec 2023",
+    "category": "photo",
+    "visual_tags": [
+      "beach",
+      "palm trees",
+      "ocean",
+      "tropical",
+      "sea"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-020",
+    "filename": "dataset/photo-020.svg",
+    "title": "Sunset Over Lake from Wooden Boat",
+    "description": "Sunset Over Lake from Wooden Boat",
+    "date": "2024-06-12",
+    "year": 2024,
+    "month": 6,
+    "season": "summer",
+    "location": {
+      "name": "Dal Lake",
+      "city": "Srinagar",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Priya"
+    ],
+    "activities": [
+      "boating"
+    ],
+    "objects": [
+      "boat",
+      "water reflections",
+      "sun"
+    ],
+    "event": "Kashmir Summer Trip",
+    "category": "photo",
+    "visual_tags": [
+      "sunset",
+      "lake",
+      "boat",
+      "reflections"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-021",
+    "filename": "dataset/photo-021.svg",
+    "title": "Alex and Maya Sitting on Beach at Sunset",
+    "description": "Alex and Maya Sitting on Beach at Sunset",
+    "date": "2023-12-22",
+    "year": 2023,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Morjim Beach",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "watching sunset",
+      "sitting"
+    ],
+    "objects": [
+      "sand",
+      "sun",
+      "ocean"
+    ],
+    "event": "Goa Trip Dec 2023",
+    "category": "photo",
+    "visual_tags": [
+      "beach",
+      "sunset",
+      "couples",
+      "ocean",
+      "sand"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-022",
+    "filename": "dataset/photo-022.svg",
+    "title": "Rocky Coastal Cliff Overlooking Ocean",
+    "description": "Rocky Coastal Cliff Overlooking Ocean",
+    "date": "2023-12-23",
+    "year": 2023,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Cabo de Rama",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [],
+    "activities": [
+      "sightseeing"
+    ],
+    "objects": [
+      "cliffs",
+      "waves",
+      "rocks"
+    ],
+    "event": "Goa Trip Dec 2023",
+    "category": "photo",
+    "visual_tags": [
+      "beach",
+      "cliffs",
+      "ocean",
+      "nature",
+      "waves"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-023",
+    "filename": "dataset/photo-023.svg",
+    "title": "Surfing in Morning Ocean Waves",
+    "description": "Surfing in Morning Ocean Waves",
+    "date": "2023-12-20",
+    "year": 2023,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Arambol Beach",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Vikram"
+    ],
+    "activities": [
+      "surfing",
+      "water sports"
+    ],
+    "objects": [
+      "surfboard",
+      "waves",
+      "wetsuit"
+    ],
+    "event": "Goa Trip Dec 2023",
+    "category": "photo",
+    "visual_tags": [
+      "surfing",
+      "beach",
+      "ocean",
+      "waves",
+      "sports"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-024",
+    "filename": "dataset/photo-024.svg",
+    "title": "Beach Shack Seafood Dinner with Lanterns",
+    "description": "Beach Shack Seafood Dinner with Lanterns",
+    "date": "2023-12-21",
+    "year": 2023,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Curlies Beach Shack",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "Rohan",
+      "self"
+    ],
+    "activities": [
+      "dining",
+      "eating seafood"
+    ],
+    "objects": [
+      "lanterns",
+      "seafood plate",
+      "wooden table"
+    ],
+    "event": "Goa Trip Dec 2023",
+    "category": "photo",
+    "visual_tags": [
+      "dining",
+      "beach shack",
+      "night",
+      "food",
+      "lanterns"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-025",
+    "filename": "dataset/photo-025.svg",
+    "title": "Sunset Over Beach During Trip to Goa",
+    "description": "Sunset Over Beach During Trip to Goa",
+    "date": "2023-12-22",
+    "year": 2023,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Vagator Beach",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "Priya",
+      "self"
+    ],
+    "activities": [
+      "watching sunset",
+      "relaxing"
+    ],
+    "objects": [
+      "sun",
+      "ocean",
+      "waves",
+      "sand"
+    ],
+    "event": "Goa Trip Dec 2023",
+    "category": "photo",
+    "visual_tags": [
+      "sunset",
+      "beach",
+      "ocean",
+      "waves",
+      "horizon",
+      "sun",
+      "goa"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-026",
+    "filename": "dataset/photo-026.svg",
+    "title": "Bonfire Party on Beach at Night",
+    "description": "Bonfire Party on Beach at Night",
+    "date": "2023-12-24",
+    "year": 2023,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Anjuna Beach",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Rohan",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "bonfire",
+      "party"
+    ],
+    "objects": [
+      "fire",
+      "wood logs",
+      "sand",
+      "ocean"
+    ],
+    "event": "Goa Trip Dec 2023",
+    "category": "photo",
+    "visual_tags": [
+      "bonfire",
+      "beach",
+      "night",
+      "fire",
+      "party"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-027",
+    "filename": "dataset/photo-027.svg",
+    "title": "Campfire Burning Bright in Dark Forest",
+    "description": "Campfire Burning Bright in Dark Forest",
+    "date": "2023-10-14",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Rishikesh Camping Grounds",
+      "city": "Rishikesh",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [],
+    "activities": [
+      "camping"
+    ],
+    "objects": [
+      "fire",
+      "logs",
+      "sparks",
+      "trees"
+    ],
+    "event": "Rishikesh Camping 2023",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "fire",
+      "night",
+      "camping",
+      "forest"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-028",
+    "filename": "dataset/photo-028.svg",
+    "title": "Acoustic Guitar Resting Against Sofa Indoors",
+    "description": "Acoustic Guitar Resting Against Sofa Indoors",
+    "date": "2024-01-25",
+    "year": 2024,
+    "month": 1,
+    "season": "winter",
+    "location": {
+      "name": "Living Room",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "acoustic guitar",
+      "sofa",
+      "cushion"
+    ],
+    "event": "Home Cozy Days",
+    "category": "photo",
+    "visual_tags": [
+      "acoustic guitar",
+      "music",
+      "indoors",
+      "home"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-029",
+    "filename": "dataset/photo-029.svg",
+    "title": "Electric Guitar on Concert Stage Under Spotlights",
+    "description": "Electric Guitar on Concert Stage Under Spotlights",
+    "date": "2023-11-18",
+    "year": 2023,
+    "month": 11,
+    "season": "autumn",
+    "location": {
+      "name": "Jawaharlal Nehru Stadium",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Rohan"
+    ],
+    "activities": [
+      "concert",
+      "playing music"
+    ],
+    "objects": [
+      "electric guitar",
+      "amplifiers",
+      "spotlights"
+    ],
+    "event": "Rock Fest 2023",
+    "category": "photo",
+    "visual_tags": [
+      "electric guitar",
+      "stage",
+      "concert",
+      "spotlights",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-030",
+    "filename": "dataset/photo-030.svg",
+    "title": "Friends Sitting Around Campfire Chatting",
+    "description": "Friends Sitting Around Campfire Chatting",
+    "date": "2023-10-14",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Rishikesh Camping Grounds",
+      "city": "Rishikesh",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "Priya",
+      "self"
+    ],
+    "activities": [
+      "chatting",
+      "campfire"
+    ],
+    "objects": [
+      "fire",
+      "camp chairs",
+      "blankets"
+    ],
+    "event": "Rishikesh Camping 2023",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "friends",
+      "night",
+      "camping",
+      "chatting"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-031",
+    "filename": "dataset/photo-031.svg",
+    "title": "Playing Acoustic Guitar by Campfire at Night",
+    "description": "Playing Acoustic Guitar by Campfire at Night",
+    "date": "2023-10-14",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Rishikesh Camping Grounds",
+      "city": "Rishikesh",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "playing acoustic guitar",
+      "singing",
+      "campfire"
+    ],
+    "objects": [
+      "acoustic guitar",
+      "campfire",
+      "fire",
+      "camp chairs"
+    ],
+    "event": "Rishikesh Camping 2023",
+    "category": "photo",
+    "visual_tags": [
+      "acoustic guitar",
+      "campfire",
+      "night",
+      "singing",
+      "music",
+      "fire",
+      "outdoors"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-032",
+    "filename": "dataset/photo-032.svg",
+    "title": "Camping Tent Near Campfire Under Starry Night Sky",
+    "description": "Camping Tent Near Campfire Under Starry Night Sky",
+    "date": "2023-10-15",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Rishikesh Camping Grounds",
+      "city": "Rishikesh",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [],
+    "activities": [
+      "camping",
+      "stargazing"
+    ],
+    "objects": [
+      "tent",
+      "campfire",
+      "stars",
+      "milky way"
+    ],
+    "event": "Rishikesh Camping 2023",
+    "category": "photo",
+    "visual_tags": [
+      "tent",
+      "campfire",
+      "stars",
+      "night",
+      "camping"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-033",
+    "filename": "dataset/photo-033.svg",
+    "title": "Person Singing with Acoustic Guitar Indoors",
+    "description": "Person Singing with Acoustic Guitar Indoors",
+    "date": "2024-02-08",
+    "year": 2024,
+    "month": 2,
+    "season": "winter",
+    "location": {
+      "name": "Music Studio",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Alex",
+      "self"
+    ],
+    "activities": [
+      "singing",
+      "playing guitar"
+    ],
+    "objects": [
+      "acoustic guitar",
+      "microphone",
+      "headphones"
+    ],
+    "event": "Studio Jam Session",
+    "category": "photo",
+    "visual_tags": [
+      "acoustic guitar",
+      "singing",
+      "microphone",
+      "indoors",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-034",
+    "filename": "dataset/photo-034.svg",
+    "title": "Marshmallows Roasting Over Campfire Flame",
+    "description": "Marshmallows Roasting Over Campfire Flame",
+    "date": "2023-10-14",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Rishikesh Camping Grounds",
+      "city": "Rishikesh",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Maya"
+    ],
+    "activities": [
+      "roasting marshmallows",
+      "eating"
+    ],
+    "objects": [
+      "marshmallows",
+      "sticks",
+      "campfire"
+    ],
+    "event": "Rishikesh Camping 2023",
+    "category": "photo",
+    "visual_tags": [
+      "marshmallows",
+      "campfire",
+      "fire",
+      "food",
+      "night"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-035",
+    "filename": "dataset/photo-035.svg",
+    "title": "Campfire & Jam Session Variation #1",
+    "description": "Campfire & Jam Session Variation #1",
+    "date": "2023-10-10",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Himalayan Foothills Camp",
+      "city": "Shimla",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan",
+      "Priya"
+    ],
+    "activities": [
+      "singing",
+      "camping"
+    ],
+    "objects": [
+      "fire",
+      "guitar case",
+      "backpacks"
+    ],
+    "event": "Autumn Hill Camp",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "guitar",
+      "night",
+      "camping",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-036",
+    "filename": "dataset/photo-036.svg",
+    "title": "Campfire & Jam Session Variation #2",
+    "description": "Campfire & Jam Session Variation #2",
+    "date": "2023-10-11",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Himalayan Foothills Camp",
+      "city": "Shimla",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan",
+      "Priya"
+    ],
+    "activities": [
+      "singing",
+      "camping"
+    ],
+    "objects": [
+      "fire",
+      "guitar case",
+      "backpacks"
+    ],
+    "event": "Autumn Hill Camp",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "guitar",
+      "night",
+      "camping",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-037",
+    "filename": "dataset/photo-037.svg",
+    "title": "Campfire & Jam Session Variation #3",
+    "description": "Campfire & Jam Session Variation #3",
+    "date": "2023-10-12",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Himalayan Foothills Camp",
+      "city": "Shimla",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan",
+      "Priya"
+    ],
+    "activities": [
+      "singing",
+      "camping"
+    ],
+    "objects": [
+      "fire",
+      "guitar case",
+      "backpacks"
+    ],
+    "event": "Autumn Hill Camp",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "guitar",
+      "night",
+      "camping",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-038",
+    "filename": "dataset/photo-038.svg",
+    "title": "Campfire & Jam Session Variation #4",
+    "description": "Campfire & Jam Session Variation #4",
+    "date": "2023-10-13",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Himalayan Foothills Camp",
+      "city": "Shimla",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan",
+      "Priya"
+    ],
+    "activities": [
+      "singing",
+      "camping"
+    ],
+    "objects": [
+      "fire",
+      "guitar case",
+      "backpacks"
+    ],
+    "event": "Autumn Hill Camp",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "guitar",
+      "night",
+      "camping",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-039",
+    "filename": "dataset/photo-039.svg",
+    "title": "Campfire & Jam Session Variation #5",
+    "description": "Campfire & Jam Session Variation #5",
+    "date": "2023-10-14",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Himalayan Foothills Camp",
+      "city": "Shimla",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan",
+      "Priya"
+    ],
+    "activities": [
+      "singing",
+      "camping"
+    ],
+    "objects": [
+      "fire",
+      "guitar case",
+      "backpacks"
+    ],
+    "event": "Autumn Hill Camp",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "guitar",
+      "night",
+      "camping",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-040",
+    "filename": "dataset/photo-040.svg",
+    "title": "Campfire & Jam Session Variation #6",
+    "description": "Campfire & Jam Session Variation #6",
+    "date": "2023-10-10",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Himalayan Foothills Camp",
+      "city": "Shimla",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan",
+      "Priya"
+    ],
+    "activities": [
+      "singing",
+      "camping"
+    ],
+    "objects": [
+      "fire",
+      "guitar case",
+      "backpacks"
+    ],
+    "event": "Autumn Hill Camp",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "guitar",
+      "night",
+      "camping",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-041",
+    "filename": "dataset/photo-041.svg",
+    "title": "Campfire & Jam Session Variation #7",
+    "description": "Campfire & Jam Session Variation #7",
+    "date": "2023-10-11",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Himalayan Foothills Camp",
+      "city": "Shimla",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan",
+      "Priya"
+    ],
+    "activities": [
+      "singing",
+      "camping"
+    ],
+    "objects": [
+      "fire",
+      "guitar case",
+      "backpacks"
+    ],
+    "event": "Autumn Hill Camp",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "guitar",
+      "night",
+      "camping",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-042",
+    "filename": "dataset/photo-042.svg",
+    "title": "Campfire & Jam Session Variation #8",
+    "description": "Campfire & Jam Session Variation #8",
+    "date": "2023-10-12",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Himalayan Foothills Camp",
+      "city": "Shimla",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan",
+      "Priya"
+    ],
+    "activities": [
+      "singing",
+      "camping"
+    ],
+    "objects": [
+      "fire",
+      "guitar case",
+      "backpacks"
+    ],
+    "event": "Autumn Hill Camp",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "guitar",
+      "night",
+      "camping",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-043",
+    "filename": "dataset/photo-043.svg",
+    "title": "Campfire & Jam Session Variation #9",
+    "description": "Campfire & Jam Session Variation #9",
+    "date": "2023-10-13",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Himalayan Foothills Camp",
+      "city": "Shimla",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan",
+      "Priya"
+    ],
+    "activities": [
+      "singing",
+      "camping"
+    ],
+    "objects": [
+      "fire",
+      "guitar case",
+      "backpacks"
+    ],
+    "event": "Autumn Hill Camp",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "guitar",
+      "night",
+      "camping",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-044",
+    "filename": "dataset/photo-044.svg",
+    "title": "Campfire & Jam Session Variation #10",
+    "description": "Campfire & Jam Session Variation #10",
+    "date": "2023-10-14",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Himalayan Foothills Camp",
+      "city": "Shimla",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan",
+      "Priya"
+    ],
+    "activities": [
+      "singing",
+      "camping"
+    ],
+    "objects": [
+      "fire",
+      "guitar case",
+      "backpacks"
+    ],
+    "event": "Autumn Hill Camp",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "guitar",
+      "night",
+      "camping",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-045",
+    "filename": "dataset/photo-045.svg",
+    "title": "Campfire & Jam Session Variation #11",
+    "description": "Campfire & Jam Session Variation #11",
+    "date": "2023-10-10",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Himalayan Foothills Camp",
+      "city": "Shimla",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan",
+      "Priya"
+    ],
+    "activities": [
+      "singing",
+      "camping"
+    ],
+    "objects": [
+      "fire",
+      "guitar case",
+      "backpacks"
+    ],
+    "event": "Autumn Hill Camp",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "guitar",
+      "night",
+      "camping",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-046",
+    "filename": "dataset/photo-046.svg",
+    "title": "Concert Ticket Screenshot for Coldplay",
+    "description": "Concert Ticket Screenshot for Coldplay",
+    "date": "2024-08-12",
+    "year": 2024,
+    "month": 8,
+    "season": "summer",
+    "location": {
+      "name": "BookMyShow App",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "ticket booking"
+    ],
+    "objects": [
+      "ticket QR code",
+      "order summary"
+    ],
+    "event": "Coldplay Music of the Spheres Tour",
+    "category": "screenshot",
+    "visual_tags": [
+      "ticket",
+      "concert",
+      "coldplay",
+      "qr code",
+      "screenshot",
+      "confirmation"
+    ],
+    "ocr_text": "COLDPLAY Music of the Spheres Tour. Venue: DY Patil Stadium Mumbai. Date: 18 Jan 2025. Order Confirmation Code: CP-98234. Section: Standing Ground. Total Paid: ₹6,500.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-047",
+    "filename": "dataset/photo-047.svg",
+    "title": "Flight Boarding Pass Screenshot for London Trip",
+    "description": "Flight Boarding Pass Screenshot for London Trip",
+    "date": "2024-06-01",
+    "year": 2024,
+    "month": 6,
+    "season": "summer",
+    "location": {
+      "name": "British Airways App",
+      "city": "Online",
+      "country": "UK",
+      "setting": "digital"
+    },
+    "people": [
+      "Alex",
+      "self"
+    ],
+    "activities": [
+      "flight check-in"
+    ],
+    "objects": [
+      "boarding pass",
+      "barcode",
+      "gate info"
+    ],
+    "event": "London Summer Vacation",
+    "category": "screenshot",
+    "visual_tags": [
+      "boarding pass",
+      "flight",
+      "airline",
+      "screenshot",
+      "travel"
+    ],
+    "ocr_text": "British Airways Flight BA-142. Delhi DEL to London LHR. Passenger: ALEX JOHNSON. Seat: 14B. Gate: 07. Departure: 08:30 AM.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-048",
+    "filename": "dataset/photo-048.svg",
+    "title": "Movie Ticket Confirmation Screenshot for Interstellar",
+    "description": "Movie Ticket Confirmation Screenshot for Interstellar",
+    "date": "2024-03-15",
+    "year": 2024,
+    "month": 3,
+    "season": "spring",
+    "location": {
+      "name": "PVR Cinemas App",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "movie booking"
+    ],
+    "objects": [
+      "seat numbers",
+      "barcode"
+    ],
+    "event": "Movie Night",
+    "category": "screenshot",
+    "visual_tags": [
+      "movie ticket",
+      "cinema",
+      "screenshot",
+      "pvr",
+      "entertainment"
+    ],
+    "ocr_text": "PVR Directors Cut. Movie: INTERSTELLAR IMAX 70mm. Date: 15 Mar 2024. Seats: F11, F12. Booking Ref: PVR-99120.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-049",
+    "filename": "dataset/photo-049.svg",
+    "title": "Train Ticket Confirmation Screenshot (IRCTC)",
+    "description": "Train Ticket Confirmation Screenshot (IRCTC)",
+    "date": "2023-12-15",
+    "year": 2023,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "IRCTC Mobile",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "Priya",
+      "self"
+    ],
+    "activities": [
+      "rail travel"
+    ],
+    "objects": [
+      "PNR number",
+      "train timing"
+    ],
+    "event": "Goa Trip Dec 2023",
+    "category": "screenshot",
+    "visual_tags": [
+      "train ticket",
+      "irctc",
+      "pnr",
+      "screenshot",
+      "railway"
+    ],
+    "ocr_text": "IRCTC E-Ticket. Train: 12432 Rajdhani Express. PNR: 2419820194. From: NZM to: MAO (Goa). Class: 2A. Passengers: 3.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-050",
+    "filename": "dataset/photo-050.svg",
+    "title": "Coffee Shop Receipt Document Photo",
+    "description": "Coffee Shop Receipt Document Photo",
+    "date": "2024-07-02",
+    "year": 2024,
+    "month": 7,
+    "season": "summer",
+    "location": {
+      "name": "Blue Tokai Coffee",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [],
+    "activities": [
+      "buying coffee"
+    ],
+    "objects": [
+      "paper receipt",
+      "coffee cup",
+      "table"
+    ],
+    "event": "Work & Coffee",
+    "category": "document",
+    "visual_tags": [
+      "receipt",
+      "coffee",
+      "paper",
+      "document",
+      "invoice"
+    ],
+    "ocr_text": "BLUE TOKAI COFFEE ROASTERS. Date: 02/07/2024. 1x Iced Latte ₹280. 1x Almond Croissant ₹220. Subtotal: ₹500. GST: ₹25. Total: ₹525. Paid via UPI.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-051",
+    "filename": "dataset/photo-051.svg",
+    "title": "Restaurant Bill Receipt Screenshot ($45.50)",
+    "description": "Restaurant Bill Receipt Screenshot ($45.50)",
+    "date": "2024-05-18",
+    "year": 2024,
+    "month": 5,
+    "season": "spring",
+    "location": {
+      "name": "Swiggy App",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [
+      "Alex",
+      "self"
+    ],
+    "activities": [
+      "food delivery"
+    ],
+    "objects": [
+      "bill summary",
+      "delivery address"
+    ],
+    "event": "Weekend Dinner at Home",
+    "category": "screenshot",
+    "visual_tags": [
+      "receipt",
+      "swiggy",
+      "food delivery",
+      "bill",
+      "screenshot"
+    ],
+    "ocr_text": "Swiggy Order #882104. Restaurant: Punjab Grill. Items: Butter Chicken x1, Garlic Naan x3. Total Paid: ₹850. Delivered to Home.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-052",
+    "filename": "dataset/photo-052.svg",
+    "title": "Grocery Store Invoice Receipt Document",
+    "description": "Grocery Store Invoice Receipt Document",
+    "date": "2024-04-10",
+    "year": 2024,
+    "month": 4,
+    "season": "spring",
+    "location": {
+      "name": "Nature's Basket",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [],
+    "activities": [
+      "grocery shopping"
+    ],
+    "objects": [
+      "printed receipt",
+      "paper invoice"
+    ],
+    "event": "Monthly Groceries",
+    "category": "document",
+    "visual_tags": [
+      "receipt",
+      "groceries",
+      "invoice",
+      "document"
+    ],
+    "ocr_text": "NATURES BASKET SUPERMARKET. Tax Invoice #NB-44102. Date: 10-04-2024. Items: Milk, Oats, Olive Oil, Berries. Total Amount: ₹1,420.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-053",
+    "filename": "dataset/photo-053.svg",
+    "title": "Wi-Fi Password Note Screenshot",
+    "description": "Wi-Fi Password Note Screenshot",
+    "date": "2024-01-05",
+    "year": 2024,
+    "month": 1,
+    "season": "winter",
+    "location": {
+      "name": "Airbnb Apartment",
+      "city": "Goa",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "notes app",
+      "wifi details"
+    ],
+    "event": "Goa Trip",
+    "category": "screenshot",
+    "visual_tags": [
+      "wifi",
+      "password",
+      "notes",
+      "screenshot"
+    ],
+    "ocr_text": "Goa Villa Wifi Network: Villa_Palolem_5G. Password: sunnybeach2024! Host Contact: +91-9876543210.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-054",
+    "filename": "dataset/photo-054.svg",
+    "title": "Google Maps Route Screenshot to Goa Beach",
+    "description": "Google Maps Route Screenshot to Goa Beach",
+    "date": "2023-12-18",
+    "year": 2023,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Google Maps App",
+      "city": "Goa",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "navigation"
+    ],
+    "objects": [
+      "map route",
+      "gps icon"
+    ],
+    "event": "Goa Trip Dec 2023",
+    "category": "screenshot",
+    "visual_tags": [
+      "map",
+      "navigation",
+      "google maps",
+      "route",
+      "screenshot"
+    ],
+    "ocr_text": "Google Maps Navigation. Route to Vagator Beach Goa. Distance: 18 km. Estimated Time: 35 mins via NH66.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-055",
+    "filename": "dataset/photo-055.svg",
+    "title": "Concert Poster Photo for Coldplay (Not Screenshot)",
+    "description": "Concert Poster Photo for Coldplay (Not Screenshot)",
+    "date": "2024-08-10",
+    "year": 2024,
+    "month": 8,
+    "season": "summer",
+    "location": {
+      "name": "Street Billboard",
+      "city": "Mumbai",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [],
+    "activities": [
+      "street walking"
+    ],
+    "objects": [
+      "billboard",
+      "poster",
+      "lights"
+    ],
+    "event": "City Walk",
+    "category": "photo",
+    "visual_tags": [
+      "poster",
+      "coldplay",
+      "concert",
+      "billboard",
+      "street"
+    ],
+    "ocr_text": "COLDPLAY LIVE IN MUMBAI 2025. Tickets on BookMyShow.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-056",
+    "filename": "dataset/photo-056.svg",
+    "title": "Digital Screenshot / Receipt Document #1",
+    "description": "Digital Screenshot / Receipt Document #1",
+    "date": "2024-01-15",
+    "year": 2024,
+    "month": 1,
+    "season": "spring",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "screenshot",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹2800. Reference ID: TXN-900056. Date: 2024-01-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-057",
+    "filename": "dataset/photo-057.svg",
+    "title": "Digital Screenshot / Receipt Document #2",
+    "description": "Digital Screenshot / Receipt Document #2",
+    "date": "2024-02-15",
+    "year": 2024,
+    "month": 2,
+    "season": "summer",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "document",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹2850. Reference ID: TXN-900057. Date: 2024-02-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-058",
+    "filename": "dataset/photo-058.svg",
+    "title": "Digital Screenshot / Receipt Document #3",
+    "description": "Digital Screenshot / Receipt Document #3",
+    "date": "2024-03-15",
+    "year": 2024,
+    "month": 3,
+    "season": "spring",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "screenshot",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹2900. Reference ID: TXN-900058. Date: 2024-03-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-059",
+    "filename": "dataset/photo-059.svg",
+    "title": "Digital Screenshot / Receipt Document #4",
+    "description": "Digital Screenshot / Receipt Document #4",
+    "date": "2024-04-15",
+    "year": 2024,
+    "month": 4,
+    "season": "summer",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "screenshot",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹2950. Reference ID: TXN-900059. Date: 2024-04-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-060",
+    "filename": "dataset/photo-060.svg",
+    "title": "Digital Screenshot / Receipt Document #5",
+    "description": "Digital Screenshot / Receipt Document #5",
+    "date": "2024-05-15",
+    "year": 2024,
+    "month": 5,
+    "season": "spring",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "document",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹3000. Reference ID: TXN-900060. Date: 2024-05-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-061",
+    "filename": "dataset/photo-061.svg",
+    "title": "Digital Screenshot / Receipt Document #6",
+    "description": "Digital Screenshot / Receipt Document #6",
+    "date": "2024-06-15",
+    "year": 2024,
+    "month": 6,
+    "season": "summer",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "screenshot",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹3050. Reference ID: TXN-900061. Date: 2024-06-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-062",
+    "filename": "dataset/photo-062.svg",
+    "title": "Digital Screenshot / Receipt Document #7",
+    "description": "Digital Screenshot / Receipt Document #7",
+    "date": "2024-07-15",
+    "year": 2024,
+    "month": 7,
+    "season": "spring",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "screenshot",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹3100. Reference ID: TXN-900062. Date: 2024-07-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-063",
+    "filename": "dataset/photo-063.svg",
+    "title": "Digital Screenshot / Receipt Document #8",
+    "description": "Digital Screenshot / Receipt Document #8",
+    "date": "2024-08-15",
+    "year": 2024,
+    "month": 8,
+    "season": "summer",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "document",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹3150. Reference ID: TXN-900063. Date: 2024-08-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-064",
+    "filename": "dataset/photo-064.svg",
+    "title": "Digital Screenshot / Receipt Document #9",
+    "description": "Digital Screenshot / Receipt Document #9",
+    "date": "2024-01-15",
+    "year": 2024,
+    "month": 1,
+    "season": "spring",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "screenshot",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹3200. Reference ID: TXN-900064. Date: 2024-01-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-065",
+    "filename": "dataset/photo-065.svg",
+    "title": "Digital Screenshot / Receipt Document #10",
+    "description": "Digital Screenshot / Receipt Document #10",
+    "date": "2024-02-15",
+    "year": 2024,
+    "month": 2,
+    "season": "summer",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "screenshot",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹3250. Reference ID: TXN-900065. Date: 2024-02-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-066",
+    "filename": "dataset/photo-066.svg",
+    "title": "Digital Screenshot / Receipt Document #11",
+    "description": "Digital Screenshot / Receipt Document #11",
+    "date": "2024-03-15",
+    "year": 2024,
+    "month": 3,
+    "season": "spring",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "document",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹3300. Reference ID: TXN-900066. Date: 2024-03-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-067",
+    "filename": "dataset/photo-067.svg",
+    "title": "Digital Screenshot / Receipt Document #12",
+    "description": "Digital Screenshot / Receipt Document #12",
+    "date": "2024-04-15",
+    "year": 2024,
+    "month": 4,
+    "season": "summer",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "screenshot",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹3350. Reference ID: TXN-900067. Date: 2024-04-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-068",
+    "filename": "dataset/photo-068.svg",
+    "title": "Digital Screenshot / Receipt Document #13",
+    "description": "Digital Screenshot / Receipt Document #13",
+    "date": "2024-05-15",
+    "year": 2024,
+    "month": 5,
+    "season": "spring",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "screenshot",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹3400. Reference ID: TXN-900068. Date: 2024-05-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-069",
+    "filename": "dataset/photo-069.svg",
+    "title": "Digital Screenshot / Receipt Document #14",
+    "description": "Digital Screenshot / Receipt Document #14",
+    "date": "2024-06-15",
+    "year": 2024,
+    "month": 6,
+    "season": "summer",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "document",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹3450. Reference ID: TXN-900069. Date: 2024-06-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-070",
+    "filename": "dataset/photo-070.svg",
+    "title": "Digital Screenshot / Receipt Document #15",
+    "description": "Digital Screenshot / Receipt Document #15",
+    "date": "2024-07-15",
+    "year": 2024,
+    "month": 7,
+    "season": "spring",
+    "location": {
+      "name": "Mobile Screen",
+      "city": "Online",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [
+      "digital transaction"
+    ],
+    "objects": [
+      "payment summary",
+      "qr code"
+    ],
+    "event": "Online Purchase",
+    "category": "screenshot",
+    "visual_tags": [
+      "screenshot",
+      "receipt",
+      "payment",
+      "document",
+      "digital"
+    ],
+    "ocr_text": "UPI Payment Successful. Amount: ₹3500. Reference ID: TXN-900070. Date: 2024-07-15.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-071",
+    "filename": "dataset/photo-071.svg",
+    "title": "Family Dining & Event Photo #1",
+    "description": "Family Dining & Event Photo #1",
+    "date": "2024-09-21",
+    "year": 2024,
+    "month": 9,
+    "season": "autumn",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "family",
+      "dining",
+      "celebration",
+      "food"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-072",
+    "filename": "dataset/photo-072.svg",
+    "title": "Pet Dog Playing in Lawn #2",
+    "description": "Pet Dog Playing in Lawn #2",
+    "date": "2024-01-22",
+    "year": 2024,
+    "month": 1,
+    "season": "winter",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Rohan"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "document",
+    "visual_tags": [
+      "pet",
+      "dog",
+      "lawn",
+      "playing",
+      "animals"
+    ],
+    "ocr_text": "Event Invitation #72. Date: 2024. Venue: Delhi.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-073",
+    "filename": "dataset/photo-073.svg",
+    "title": "Family Dining & Event Photo #3",
+    "description": "Family Dining & Event Photo #3",
+    "date": "2024-02-23",
+    "year": 2024,
+    "month": 2,
+    "season": "spring",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "family",
+      "dining",
+      "celebration",
+      "food"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-074",
+    "filename": "dataset/photo-074.svg",
+    "title": "Family Dining & Event Photo #4",
+    "description": "Family Dining & Event Photo #4",
+    "date": "2024-03-24",
+    "year": 2024,
+    "month": 3,
+    "season": "summer",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "family",
+      "dining",
+      "celebration",
+      "food"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-075",
+    "filename": "dataset/photo-075.svg",
+    "title": "Pet Dog Playing in Lawn #5",
+    "description": "Pet Dog Playing in Lawn #5",
+    "date": "2024-04-10",
+    "year": 2024,
+    "month": 4,
+    "season": "autumn",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "pet",
+      "dog",
+      "lawn",
+      "playing",
+      "animals"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-076",
+    "filename": "dataset/photo-076.svg",
+    "title": "Family Dining & Event Photo #6",
+    "description": "Family Dining & Event Photo #6",
+    "date": "2024-05-11",
+    "year": 2024,
+    "month": 5,
+    "season": "winter",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "document",
+    "visual_tags": [
+      "family",
+      "dining",
+      "celebration",
+      "food"
+    ],
+    "ocr_text": "Event Invitation #76. Date: 2024. Venue: Delhi.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-077",
+    "filename": "dataset/photo-077.svg",
+    "title": "Winter Snow Mountain Scenery #7",
+    "description": "Winter Snow Mountain Scenery #7",
+    "date": "2024-06-12",
+    "year": 2024,
+    "month": 6,
+    "season": "spring",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "snow",
+      "mountains",
+      "winter",
+      "landscape"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-078",
+    "filename": "dataset/photo-078.svg",
+    "title": "Pet Dog Playing in Lawn #8",
+    "description": "Pet Dog Playing in Lawn #8",
+    "date": "2024-07-13",
+    "year": 2024,
+    "month": 7,
+    "season": "summer",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Rohan"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "pet",
+      "dog",
+      "lawn",
+      "playing",
+      "animals"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-079",
+    "filename": "dataset/photo-079.svg",
+    "title": "Family Dining & Event Photo #9",
+    "description": "Family Dining & Event Photo #9",
+    "date": "2024-08-14",
+    "year": 2024,
+    "month": 8,
+    "season": "autumn",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "family",
+      "dining",
+      "celebration",
+      "food"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-080",
+    "filename": "dataset/photo-080.svg",
+    "title": "Birthday Cake Celebration #10",
+    "description": "Birthday Cake Celebration #10",
+    "date": "2024-09-15",
+    "year": 2024,
+    "month": 9,
+    "season": "winter",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "Priya",
+      "Vikram",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "document",
+    "visual_tags": [
+      "birthday",
+      "cake",
+      "party",
+      "candles",
+      "celebration"
+    ],
+    "ocr_text": "Event Invitation #80. Date: 2024. Venue: Delhi.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-081",
+    "filename": "dataset/photo-081.svg",
+    "title": "Pet Dog Playing in Lawn #11",
+    "description": "Pet Dog Playing in Lawn #11",
+    "date": "2024-01-16",
+    "year": 2024,
+    "month": 1,
+    "season": "spring",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "pet",
+      "dog",
+      "lawn",
+      "playing",
+      "animals"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-082",
+    "filename": "dataset/photo-082.svg",
+    "title": "Family Dining & Event Photo #12",
+    "description": "Family Dining & Event Photo #12",
+    "date": "2024-02-17",
+    "year": 2024,
+    "month": 2,
+    "season": "summer",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "family",
+      "dining",
+      "celebration",
+      "food"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-083",
+    "filename": "dataset/photo-083.svg",
+    "title": "Family Dining & Event Photo #13",
+    "description": "Family Dining & Event Photo #13",
+    "date": "2024-03-18",
+    "year": 2024,
+    "month": 3,
+    "season": "autumn",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "family",
+      "dining",
+      "celebration",
+      "food"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-084",
+    "filename": "dataset/photo-084.svg",
+    "title": "Pet Dog Playing in Lawn #14",
+    "description": "Pet Dog Playing in Lawn #14",
+    "date": "2024-04-19",
+    "year": 2024,
+    "month": 4,
+    "season": "winter",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Rohan"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "document",
+    "visual_tags": [
+      "pet",
+      "dog",
+      "lawn",
+      "playing",
+      "animals"
+    ],
+    "ocr_text": "Event Invitation #84. Date: 2024. Venue: Delhi.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-085",
+    "filename": "dataset/photo-085.svg",
+    "title": "Birthday Cake Celebration #15",
+    "description": "Birthday Cake Celebration #15",
+    "date": "2024-05-20",
+    "year": 2024,
+    "month": 5,
+    "season": "spring",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "Priya",
+      "Vikram",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "birthday",
+      "cake",
+      "party",
+      "candles",
+      "celebration"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-086",
+    "filename": "dataset/photo-086.svg",
+    "title": "Family Dining & Event Photo #16",
+    "description": "Family Dining & Event Photo #16",
+    "date": "2024-06-21",
+    "year": 2024,
+    "month": 6,
+    "season": "summer",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "family",
+      "dining",
+      "celebration",
+      "food"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-087",
+    "filename": "dataset/photo-087.svg",
+    "title": "Pet Dog Playing in Lawn #17",
+    "description": "Pet Dog Playing in Lawn #17",
+    "date": "2024-07-22",
+    "year": 2024,
+    "month": 7,
+    "season": "autumn",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "pet",
+      "dog",
+      "lawn",
+      "playing",
+      "animals"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-088",
+    "filename": "dataset/photo-088.svg",
+    "title": "Family Dining & Event Photo #18",
+    "description": "Family Dining & Event Photo #18",
+    "date": "2024-08-23",
+    "year": 2024,
+    "month": 8,
+    "season": "winter",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "document",
+    "visual_tags": [
+      "family",
+      "dining",
+      "celebration",
+      "food"
+    ],
+    "ocr_text": "Event Invitation #88. Date: 2024. Venue: Delhi.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-089",
+    "filename": "dataset/photo-089.svg",
+    "title": "Family Dining & Event Photo #19",
+    "description": "Family Dining & Event Photo #19",
+    "date": "2024-09-24",
+    "year": 2024,
+    "month": 9,
+    "season": "spring",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "family",
+      "dining",
+      "celebration",
+      "food"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-090",
+    "filename": "dataset/photo-090.svg",
+    "title": "Pet Dog Playing in Lawn #20",
+    "description": "Pet Dog Playing in Lawn #20",
+    "date": "2024-01-10",
+    "year": 2024,
+    "month": 1,
+    "season": "summer",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Rohan"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "pet",
+      "dog",
+      "lawn",
+      "playing",
+      "animals"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-091",
+    "filename": "dataset/photo-091.svg",
+    "title": "Winter Snow Mountain Scenery #21",
+    "description": "Winter Snow Mountain Scenery #21",
+    "date": "2024-02-11",
+    "year": 2024,
+    "month": 2,
+    "season": "autumn",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "snow",
+      "mountains",
+      "winter",
+      "landscape"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-092",
+    "filename": "dataset/photo-092.svg",
+    "title": "Family Dining & Event Photo #22",
+    "description": "Family Dining & Event Photo #22",
+    "date": "2024-03-12",
+    "year": 2024,
+    "month": 3,
+    "season": "winter",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "document",
+    "visual_tags": [
+      "family",
+      "dining",
+      "celebration",
+      "food"
+    ],
+    "ocr_text": "Event Invitation #92. Date: 2024. Venue: Delhi.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-093",
+    "filename": "dataset/photo-093.svg",
+    "title": "Pet Dog Playing in Lawn #23",
+    "description": "Pet Dog Playing in Lawn #23",
+    "date": "2024-04-13",
+    "year": 2024,
+    "month": 4,
+    "season": "spring",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "pet",
+      "dog",
+      "lawn",
+      "playing",
+      "animals"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-094",
+    "filename": "dataset/photo-094.svg",
+    "title": "Family Dining & Event Photo #24",
+    "description": "Family Dining & Event Photo #24",
+    "date": "2024-05-14",
+    "year": 2024,
+    "month": 5,
+    "season": "summer",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "family",
+      "dining",
+      "celebration",
+      "food"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-095",
+    "filename": "dataset/photo-095.svg",
+    "title": "Birthday Cake Celebration #25",
+    "description": "Birthday Cake Celebration #25",
+    "date": "2024-06-15",
+    "year": 2024,
+    "month": 6,
+    "season": "autumn",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "Priya",
+      "Vikram",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "birthday",
+      "cake",
+      "party",
+      "candles",
+      "celebration"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-096",
+    "filename": "dataset/photo-096.svg",
+    "title": "Pet Dog Playing in Lawn #26",
+    "description": "Pet Dog Playing in Lawn #26",
+    "date": "2024-07-16",
+    "year": 2024,
+    "month": 7,
+    "season": "winter",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Rohan"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "document",
+    "visual_tags": [
+      "pet",
+      "dog",
+      "lawn",
+      "playing",
+      "animals"
+    ],
+    "ocr_text": "Event Invitation #96. Date: 2024. Venue: Delhi.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-097",
+    "filename": "dataset/photo-097.svg",
+    "title": "Family Dining & Event Photo #27",
+    "description": "Family Dining & Event Photo #27",
+    "date": "2024-08-17",
+    "year": 2024,
+    "month": 8,
+    "season": "spring",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "family",
+      "dining",
+      "celebration",
+      "food"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-098",
+    "filename": "dataset/photo-098.svg",
+    "title": "Winter Snow Mountain Scenery #28",
+    "description": "Winter Snow Mountain Scenery #28",
+    "date": "2024-09-18",
+    "year": 2024,
+    "month": 9,
+    "season": "summer",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "snow",
+      "mountains",
+      "winter",
+      "landscape"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-099",
+    "filename": "dataset/photo-099.svg",
+    "title": "Pet Dog Playing in Lawn #29",
+    "description": "Pet Dog Playing in Lawn #29",
+    "date": "2024-01-19",
+    "year": 2024,
+    "month": 1,
+    "season": "autumn",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "Rohan"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "photo",
+    "visual_tags": [
+      "pet",
+      "dog",
+      "lawn",
+      "playing",
+      "animals"
+    ],
+    "ocr_text": "",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-100",
+    "filename": "dataset/photo-100.svg",
+    "title": "Birthday Cake Celebration #30",
+    "description": "Birthday Cake Celebration #30",
+    "date": "2024-02-20",
+    "year": 2024,
+    "month": 2,
+    "season": "winter",
+    "location": {
+      "name": "City Venue",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "Alex",
+      "Maya",
+      "Priya",
+      "Vikram",
+      "self"
+    ],
+    "activities": [
+      "celebrating",
+      "gathering"
+    ],
+    "objects": [
+      "table",
+      "decorations"
+    ],
+    "event": "Family Weekend",
+    "category": "document",
+    "visual_tags": [
+      "birthday",
+      "cake",
+      "party",
+      "candles",
+      "celebration"
+    ],
+    "ocr_text": "Event Invitation #100. Date: 2024. Venue: Delhi.",
+    "source": "Controlled representative prototype dataset — Google Photos Retrieval MVP",
+    "license": "Original prototype asset — created specifically for this project."
+  },
+  {
+    "id": "photo-101",
+    "filename": "photo-101.svg",
+    "title": "Riding Bicycle Along Miramar Beach Road in Goa",
+    "description": "Riding a rental bicycle under palm trees along Miramar Beach coastal road in Goa during sunset.",
+    "date": "2024-12-15",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Miramar Beach Road",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self"
+    ],
+    "activities": [
+      "cycling",
+      "riding"
+    ],
+    "objects": [
+      "bicycle",
+      "helmet",
+      "palm trees"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "bicycle",
+      "cycling",
+      "beach road",
+      "palms",
+      "sunset",
+      "riding"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-102",
+    "filename": "photo-102.svg",
+    "title": "College Friends Dinner at Thalassa Restaurant in Goa",
+    "description": "Group photo having seafood dinner with college friends Maya, Rohan, and Vikram at Thalassa in Anjuna Goa.",
+    "date": "2024-12-16",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Thalassa Anjuna",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Maya",
+      "Rohan",
+      "Vikram"
+    ],
+    "activities": [
+      "eating",
+      "dining",
+      "celebrating"
+    ],
+    "objects": [
+      "food",
+      "drinks",
+      "table",
+      "candle"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "dinner",
+      "restaurant",
+      "group photo",
+      "college friends",
+      "seafood",
+      "night"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-103",
+    "filename": "photo-103.svg",
+    "title": "Sunset with Cousin Ananya at Anjuna Beach Cliff in Goa",
+    "description": "Cousin Ananya sitting on the rocks watching sunset over the ocean waves at Anjuna cliff.",
+    "date": "2024-12-14",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Anjuna Beach Cliff",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Cousin Ananya"
+    ],
+    "activities": [
+      "walking",
+      "sightseeing"
+    ],
+    "objects": [
+      "rocks",
+      "waves"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "sunset",
+      "beach",
+      "cousin",
+      "ocean",
+      "waves",
+      "sea"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-104",
+    "filename": "photo-104.svg",
+    "title": "Goa Resort Swimming Pool Afternoon",
+    "description": "Relaxing by the resort pool lounger with Maya on a sunny afternoon in Candolim.",
+    "date": "2024-12-15",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Candolim Villa Resort",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Maya"
+    ],
+    "activities": [
+      "swimming",
+      "relaxing"
+    ],
+    "objects": [
+      "pool",
+      "lounger",
+      "sunglasses"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "pool",
+      "resort",
+      "swimming",
+      "sunshine",
+      "palms"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-105",
+    "filename": "photo-105.svg",
+    "title": "Scooter Ride to Aguada Fort in Goa",
+    "description": "Renting a yellow scooter with Rohan to visit Fort Aguada lighthouse overlook.",
+    "date": "2024-12-17",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Fort Aguada",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Rohan"
+    ],
+    "activities": [
+      "riding",
+      "driving",
+      "travelling"
+    ],
+    "objects": [
+      "scooter",
+      "helmet",
+      "fort"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "scooter",
+      "fort",
+      "lighthouse",
+      "ocean view",
+      "riding"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-106",
+    "filename": "photo-106.svg",
+    "title": "Goa Beach Shack Night Campfire and Guitar",
+    "description": "Night campfire at Morjim beach shack with Vikram playing acoustic guitar.",
+    "date": "2024-12-16",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Morjim Beach Shack",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Vikram"
+    ],
+    "activities": [
+      "singing",
+      "sitting by fire",
+      "playing acoustic guitar"
+    ],
+    "objects": [
+      "campfire",
+      "acoustic guitar",
+      "shack"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "campfire",
+      "night",
+      "guitar",
+      "beach shack",
+      "music"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-107",
+    "filename": "photo-107.svg",
+    "title": "IndiGo Flight Booking Confirmation to Goa Screenshot",
+    "description": "Screenshot of booking confirmation email for flight 6E-204 from Delhi to Goa.",
+    "date": "2024-11-20",
+    "year": 2024,
+    "month": 11,
+    "season": "autumn",
+    "location": {
+      "name": "Online Booking System",
+      "city": "Goa",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "ticket",
+      "passport",
+      "flight ticket"
+    ],
+    "event": "Flight Booking",
+    "category": "screenshot",
+    "visual_tags": [
+      "booking confirmation",
+      "flight ticket",
+      "indigo",
+      "goa trip",
+      "screenshot"
+    ],
+    "ocr_text": "IndiGo Flight Confirmation PNR: GOA982 Delhi (DEL) to Goa (GOI) Date: 14 Dec 2024 Seat: 12F Status: Confirmed",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-108",
+    "filename": "photo-108.svg",
+    "title": "Google Maps Route Screenshot for Panjim to Miramar Beach",
+    "description": "Google Maps screenshot showing route pin and distance for Goa bicycle coastal drive.",
+    "date": "2024-12-15",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Panjim Road Route",
+      "city": "Goa",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "map",
+      "phone"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "screenshot",
+    "visual_tags": [
+      "map screenshot",
+      "navigation",
+      "route pin",
+      "goa map"
+    ],
+    "ocr_text": "Google Maps Route Panjim to Miramar Beach Goa 4.2 km 15 min cycling route pin",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-109",
+    "filename": "photo-109.svg",
+    "title": "WhatsApp Group Chat Screenshot Planning Goa Trip",
+    "description": "Chat screenshot with college friends Maya, Rohan, and Vikram discussing bike rentals in Goa.",
+    "date": "2024-11-15",
+    "year": 2024,
+    "month": 11,
+    "season": "autumn",
+    "location": {
+      "name": "WhatsApp Group",
+      "city": "Goa",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [
+      "Maya",
+      "Rohan",
+      "Vikram"
+    ],
+    "activities": [],
+    "objects": [
+      "phone"
+    ],
+    "event": "Goa Trip Planning",
+    "category": "screenshot",
+    "visual_tags": [
+      "chat screenshot",
+      "whatsapp",
+      "group chat",
+      "goa plan"
+    ],
+    "ocr_text": "Goa Squad Group Chat: Maya: Let us rent bicycles in Miramar! Rohan: Confirmed December 14-18 villa booked!",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-110",
+    "filename": "photo-110.svg",
+    "title": "Fishermans Wharf Goa Seafood Bill Receipt",
+    "description": "Printed restaurant receipt photo for seafood dinner in Goa.",
+    "date": "2024-12-16",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Fishermans Wharf",
+      "city": "Goa",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "receipt",
+      "bill",
+      "food"
+    ],
+    "event": "Goa Trip Dinner",
+    "category": "document",
+    "visual_tags": [
+      "receipt",
+      "bill",
+      "restaurant receipt",
+      "invoice"
+    ],
+    "ocr_text": "Fishermans Wharf Cavelossim Goa Tax Invoice Bill #8941 Total INR 3450 Paid via UPI Google Pay",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-111",
+    "filename": "photo-111.svg",
+    "title": "Bicycle Rental Receipt Document in Panjim Goa",
+    "description": "Receipt image for 1-day bicycle rental in Panjim.",
+    "date": "2024-12-15",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Goa Bike Rentals",
+      "city": "Goa",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "receipt",
+      "bicycle",
+      "document"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "document",
+    "visual_tags": [
+      "receipt",
+      "rental agreement",
+      "bicycle receipt",
+      "document"
+    ],
+    "ocr_text": "Goa Bike Rentals Panjim Receipt #402 1 Day Mountain Bicycle Rental Deposit INR 1000 Total Paid INR 400",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-112",
+    "filename": "photo-112.svg",
+    "title": "Morning Coffee at Fontainhas Café with Roommate Siddharth",
+    "description": "Sitting at a cozy café table in Latin Quarter Fontainhas in Goa with roommate Siddharth.",
+    "date": "2024-12-17",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Fontainhas Latin Quarter",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Roommate Siddharth"
+    ],
+    "activities": [
+      "sitting at café",
+      "eating"
+    ],
+    "objects": [
+      "coffee",
+      "croissant",
+      "table"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "café",
+      "coffee cup",
+      "yellow building",
+      "roommate",
+      "breakfast"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-113",
+    "filename": "photo-113.svg",
+    "title": "Group Selfie on Baga Beach Speedboat",
+    "description": "High speed boat ride selfie with Maya, Rohan, Vikram and Cousin Ananya in Goa.",
+    "date": "2024-12-16",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Baga Beach Watersports",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Maya",
+      "Rohan",
+      "Vikram",
+      "Cousin Ananya"
+    ],
+    "activities": [
+      "taking selfies",
+      "boating"
+    ],
+    "objects": [
+      "lifejacket",
+      "camera"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "selfie",
+      "group photo",
+      "speedboat",
+      "ocean spray",
+      "lifejacket"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-114",
+    "filename": "photo-114.svg",
+    "title": "Airbnb Villa Booking Confirmation Screenshot Goa",
+    "description": "Screenshot of confirmed Airbnb stay for Candolim 3-bedroom villa.",
+    "date": "2024-11-25",
+    "year": 2024,
+    "month": 11,
+    "season": "autumn",
+    "location": {
+      "name": "Airbnb Portal",
+      "city": "Goa",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "ticket",
+      "document"
+    ],
+    "event": "Trip Booking",
+    "category": "screenshot",
+    "visual_tags": [
+      "booking confirmation",
+      "airbnb",
+      "villa",
+      "screenshot"
+    ],
+    "ocr_text": "Airbnb Confirmed Reservation Candolim Goa Luxury Pool Villa Check-in: Dec 14 2024 Check-out: Dec 18 2024",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-115",
+    "filename": "photo-115.svg",
+    "title": "Beach Volleyball Match at Sunset in Colva Goa",
+    "description": "Playing volleyball on the sand with Vikram and locals as sunset colors the sky.",
+    "date": "2024-12-15",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Colva Beach",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Vikram"
+    ],
+    "activities": [
+      "playing sports",
+      "volleyball"
+    ],
+    "objects": [
+      "volleyball",
+      "net"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "beach sports",
+      "sunset",
+      "volleyball",
+      "sand"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-116",
+    "filename": "photo-116.svg",
+    "title": "Spices and Herbs at Tropical Spice Plantation Goa",
+    "description": "Walking tour photo through palm trees and spice gardens in Ponda Goa.",
+    "date": "2024-12-17",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Tropical Spice Plantation",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Cousin Ananya"
+    ],
+    "activities": [
+      "walking",
+      "travelling"
+    ],
+    "objects": [
+      "backpack",
+      "plants"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "plantation",
+      "greenery",
+      "spices",
+      "trail"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-117",
+    "filename": "photo-117.svg",
+    "title": "Panjim Church Basilica of Bom Jesus Landmark",
+    "description": "Historic white architecture of Church of Our Lady of Immaculate Conception.",
+    "date": "2024-12-14",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Panjim Church Square",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self"
+    ],
+    "activities": [
+      "sightseeing"
+    ],
+    "objects": [
+      "camera"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "church",
+      "architecture",
+      "historic building",
+      "white facade"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-118",
+    "filename": "photo-118.svg",
+    "title": "Night Market Shopping in Arpora Goa",
+    "description": "Browsing handicraft stalls and brightly lit lanterns at Saturday Night Market.",
+    "date": "2024-12-17",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Arpora Night Market",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Maya"
+    ],
+    "activities": [
+      "shopping",
+      "walking"
+    ],
+    "objects": [
+      "backpack",
+      "lanterns"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "night market",
+      "shopping",
+      "lights",
+      "stalls"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-119",
+    "filename": "photo-119.svg",
+    "title": "Souvenir Shopping Receipt Document Goa",
+    "description": "Handicrafts purchase receipt from Arpora night market.",
+    "date": "2024-12-17",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Arpora Crafts",
+      "city": "Goa",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "receipt",
+      "bill"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "document",
+    "visual_tags": [
+      "receipt",
+      "shopping bill",
+      "handicrafts"
+    ],
+    "ocr_text": "Arpora Night Market Crafts Stall #12 Receipt Total INR 1500 Paid Cash",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-120",
+    "filename": "photo-120.svg",
+    "title": "Beach Sunbed Reading Book in Arambol Goa",
+    "description": "Quiet morning reading a book on a wooden lounger under palm trees in Arambol.",
+    "date": "2024-12-18",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Arambol Beach",
+      "city": "Goa",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self"
+    ],
+    "activities": [
+      "studying",
+      "relaxing"
+    ],
+    "objects": [
+      "book",
+      "sunglasses",
+      "coffee"
+    ],
+    "event": "Goa Trip 2024",
+    "category": "photo",
+    "visual_tags": [
+      "reading",
+      "book",
+      "beach lounger",
+      "relaxation"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-121",
+    "filename": "photo-121.svg",
+    "title": "25th Birthday Party Cake Cutting with Family and Friends",
+    "description": "Cutting a double chocolate birthday cake surrounded by Mom, Dad, Maya, and Roommate Siddharth around the table.",
+    "date": "2024-09-20",
+    "year": 2024,
+    "month": 9,
+    "season": "autumn",
+    "location": {
+      "name": "Family Living Room",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "self",
+      "Mom",
+      "Dad",
+      "Maya",
+      "Roommate Siddharth"
+    ],
+    "activities": [
+      "celebrating",
+      "eating"
+    ],
+    "objects": [
+      "cake",
+      "candles",
+      "balloons"
+    ],
+    "event": "25th Birthday Party",
+    "category": "photo",
+    "visual_tags": [
+      "birthday cake",
+      "candles",
+      "around the cake",
+      "family gathering",
+      "celebration",
+      "balloons"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-122",
+    "filename": "photo-122.svg",
+    "title": "College Friend Maya's Birthday Cake at Café",
+    "description": "Surprising Maya with a mini cheesecake at Blue Tokai café.",
+    "date": "2024-03-12",
+    "year": 2024,
+    "month": 3,
+    "season": "spring",
+    "location": {
+      "name": "Blue Tokai Café",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "self",
+      "Maya",
+      "Rohan"
+    ],
+    "activities": [
+      "celebrating",
+      "sitting at café",
+      "eating"
+    ],
+    "objects": [
+      "cake",
+      "coffee",
+      "candles"
+    ],
+    "event": "Maya Birthday",
+    "category": "photo",
+    "visual_tags": [
+      "cheesecake",
+      "café table",
+      "birthday candle",
+      "college friends"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-123",
+    "filename": "photo-123.svg",
+    "title": "Office Birthday Celebration Cake for Coworker Sarah",
+    "description": "Office team gathering around the conference table to celebrate Coworker Sarah's birthday.",
+    "date": "2024-07-14",
+    "year": 2024,
+    "month": 7,
+    "season": "summer",
+    "location": {
+      "name": "Tech Park Conference Room",
+      "city": "Bengaluru",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "self",
+      "Coworker Sarah",
+      "Coworker David",
+      "Priya"
+    ],
+    "activities": [
+      "celebrating",
+      "eating"
+    ],
+    "objects": [
+      "cake",
+      "laptop",
+      "paper cups"
+    ],
+    "event": "Office Birthday",
+    "category": "photo",
+    "visual_tags": [
+      "office party",
+      "birthday cake",
+      "coworkers",
+      "conference room"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-124",
+    "filename": "photo-124.svg",
+    "title": "The Cake Shop Order Receipt Screenshot",
+    "description": "Digital receipt screenshot for custom 25th birthday chocolate cake order.",
+    "date": "2024-09-19",
+    "year": 2024,
+    "month": 9,
+    "season": "autumn",
+    "location": {
+      "name": "The Cake Shop Online",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "receipt",
+      "cake"
+    ],
+    "event": "25th Birthday Party",
+    "category": "document",
+    "visual_tags": [
+      "receipt",
+      "cake order",
+      "invoice",
+      "payment receipt"
+    ],
+    "ocr_text": "The Cake Shop Invoice #9921 2.5 kg Belgian Chocolate Truffle Cake Total INR 1800 Paid via UPI",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-125",
+    "filename": "photo-125.svg",
+    "title": "Cousin Rahul Birthday Dinner at Barbeque Nation",
+    "description": "Family buffet dinner celebrating Cousin Rahul's 21st birthday in Jaipur.",
+    "date": "2024-10-05",
+    "year": 2024,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Barbeque Nation",
+      "city": "Jaipur",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "self",
+      "Cousin Rahul",
+      "Mom"
+    ],
+    "activities": [
+      "eating",
+      "celebrating"
+    ],
+    "objects": [
+      "food",
+      "grill",
+      "cake"
+    ],
+    "event": "Rahul Birthday",
+    "category": "photo",
+    "visual_tags": [
+      "family dinner",
+      "buffet",
+      "birthday cake",
+      "restaurant"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-126",
+    "filename": "photo-126.svg",
+    "title": "GPay Payment Confirmation Screenshot for Apartment Rent",
+    "description": "UPI payment confirmation screenshot sent to landlord for monthly apartment rent.",
+    "date": "2024-12-01",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Google Pay Mobile App",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "phone",
+      "receipt"
+    ],
+    "event": "Rent Payment",
+    "category": "screenshot",
+    "visual_tags": [
+      "payment confirmation",
+      "gpay",
+      "upi",
+      "rent screenshot",
+      "screenshot"
+    ],
+    "ocr_text": "Google Pay Payment Successful INR 22000 to Landlord Rent for Dec 2024 Transaction Ref 4392019852",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-127",
+    "filename": "photo-127.svg",
+    "title": "Paytm Payment Confirmation Screenshot for Electronics Purchase",
+    "description": "Screenshot of Paytm UPI payment to Croma Electronics for headphones.",
+    "date": "2024-08-15",
+    "year": 2024,
+    "month": 8,
+    "season": "summer",
+    "location": {
+      "name": "Paytm Mobile App",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "phone",
+      "receipt"
+    ],
+    "event": "Shopping Payment",
+    "category": "screenshot",
+    "visual_tags": [
+      "payment confirmation",
+      "paytm",
+      "upi",
+      "shopping receipt",
+      "screenshot"
+    ],
+    "ocr_text": "Paytm Money Sent Successful INR 4500 to Croma Retail Ltd Ref #8839102",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-128",
+    "filename": "photo-128.svg",
+    "title": "Credit Card Bill Statement Document",
+    "description": "HDFC credit card monthly bill statement PDF page scan.",
+    "date": "2024-05-10",
+    "year": 2024,
+    "month": 5,
+    "season": "spring",
+    "location": {
+      "name": "Bank Portal",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "document",
+      "receipt"
+    ],
+    "event": "Financial Statement",
+    "category": "document",
+    "visual_tags": [
+      "bank statement",
+      "document",
+      "credit card bill",
+      "invoice"
+    ],
+    "ocr_text": "HDFC Bank Credit Card Statement Statement Date: 10 May 2024 Total Amount Due: INR 18450 Due Date: 28 May 2024",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-129",
+    "filename": "photo-129.svg",
+    "title": "Apollo Pharmacy Medicine Receipt Document",
+    "description": "Printed medical prescription and bill receipt from Apollo Pharmacy.",
+    "date": "2024-04-02",
+    "year": 2024,
+    "month": 4,
+    "season": "spring",
+    "location": {
+      "name": "Apollo Pharmacy",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "medicine",
+      "receipt",
+      "document"
+    ],
+    "event": "Pharmacy Purchase",
+    "category": "document",
+    "visual_tags": [
+      "medicine receipt",
+      "prescription",
+      "document",
+      "bill"
+    ],
+    "ocr_text": "Apollo Pharmacy Tax Invoice Paracetamol 500mg Vitamin C Cough Syrup Total Bill INR 380 Paid Cash",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-130",
+    "filename": "photo-130.svg",
+    "title": "Swiggy Food Delivery Receipt Screenshot",
+    "description": "App screenshot for late night pizza delivery order on Christmas Eve.",
+    "date": "2024-12-25",
+    "year": 2024,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "Swiggy Mobile App",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [
+      "self",
+      "Roommate Siddharth"
+    ],
+    "activities": [
+      "eating"
+    ],
+    "objects": [
+      "food",
+      "receipt",
+      "phone"
+    ],
+    "event": "Christmas Dinner",
+    "category": "screenshot",
+    "visual_tags": [
+      "swiggy",
+      "food receipt",
+      "pizza order",
+      "screenshot"
+    ],
+    "ocr_text": "Swiggy Order Delivered Dominoes Large Farmhouse Pizza Garlic Bread Total Paid INR 799",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-131",
+    "filename": "photo-131.svg",
+    "title": "College Farewell Group Photo Standing Together on Auditorium Steps",
+    "description": "Graduation batch group photo in formal suits and sarees standing together on campus auditorium steps.",
+    "date": "2023-05-25",
+    "year": 2023,
+    "month": 5,
+    "season": "spring",
+    "location": {
+      "name": "Campus Auditorium Steps",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Maya",
+      "Rohan",
+      "Vikram",
+      "College Friends"
+    ],
+    "activities": [
+      "celebrating",
+      "standing together"
+    ],
+    "objects": [
+      "suits",
+      "sarees"
+    ],
+    "event": "College Farewell",
+    "category": "photo",
+    "visual_tags": [
+      "group photo",
+      "college farewell",
+      "standing together",
+      "graduation",
+      "formal wear",
+      "campus"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-132",
+    "filename": "photo-132.svg",
+    "title": "College Farewell After-Party Dinner",
+    "description": "Dinner table celebration at Hauz Khas Village café after college farewell ceremony.",
+    "date": "2023-05-25",
+    "year": 2023,
+    "month": 5,
+    "season": "spring",
+    "location": {
+      "name": "Hauz Khas Village Café",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "self",
+      "Maya",
+      "Roommate Siddharth"
+    ],
+    "activities": [
+      "eating",
+      "sitting at café",
+      "celebrating"
+    ],
+    "objects": [
+      "food",
+      "drinks"
+    ],
+    "event": "College Farewell",
+    "category": "photo",
+    "visual_tags": [
+      "farewell dinner",
+      "college friends",
+      "café",
+      "celebration"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-133",
+    "filename": "photo-133.svg",
+    "title": "College Fest Music Concert Night Stage",
+    "description": "Live band performance stage with crowd cheering under colorful stage lights.",
+    "date": "2023-03-18",
+    "year": 2023,
+    "month": 3,
+    "season": "spring",
+    "location": {
+      "name": "College Ground",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Rohan"
+    ],
+    "activities": [
+      "attending concert",
+      "singing"
+    ],
+    "objects": [
+      "guitar",
+      "speakers",
+      "stage"
+    ],
+    "event": "College Annual Fest",
+    "category": "photo",
+    "visual_tags": [
+      "concert stage",
+      "music fest",
+      "lights",
+      "crowd"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-134",
+    "filename": "photo-134.svg",
+    "title": "Diljit Dosanjh Concert Pass Ticket Photo",
+    "description": "Holding physical VIP wristband and ticket pass for Dil-Luminati India Tour concert.",
+    "date": "2024-10-26",
+    "year": 2024,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "JLN Stadium",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "self"
+    ],
+    "activities": [
+      "attending concert"
+    ],
+    "objects": [
+      "ticket",
+      "concert ticket",
+      "phone"
+    ],
+    "event": "Diljit Concert Tour",
+    "category": "photo",
+    "visual_tags": [
+      "concert ticket",
+      "pass",
+      "wristband",
+      "diljit concert"
+    ],
+    "ocr_text": "Diljit Dosanjh Dil-Luminati Tour 2024 VIP Gate 3 Access Ticket #DL-9082",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-135",
+    "filename": "photo-135.svg",
+    "title": "A.R. Rahman Live Concert Ticket Screenshot",
+    "description": "BookMyShow app ticket screenshot for AR Rahman live symphony concert.",
+    "date": "2023-11-12",
+    "year": 2023,
+    "month": 11,
+    "season": "autumn",
+    "location": {
+      "name": "BookMyShow App",
+      "city": "Mumbai",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "ticket",
+      "concert ticket"
+    ],
+    "event": "AR Rahman Live",
+    "category": "screenshot",
+    "visual_tags": [
+      "concert ticket",
+      "bookmyshow",
+      "screenshot",
+      "qr code"
+    ],
+    "ocr_text": "BookMyShow Ticket A.R. Rahman Live in Concert Mumbai Bayview Ground Seat A-12 Ticket Code #ARR-5521",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-136",
+    "filename": "photo-136.svg",
+    "title": "Manali Snow Mountain Biking Trail",
+    "description": "Riding a heavy-duty mountain bike along snowy Solang Valley trail with Coworker David.",
+    "date": "2024-01-15",
+    "year": 2024,
+    "month": 1,
+    "season": "winter",
+    "location": {
+      "name": "Solang Valley",
+      "city": "Manali",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Coworker David"
+    ],
+    "activities": [
+      "cycling",
+      "riding",
+      "hiking"
+    ],
+    "objects": [
+      "bicycle",
+      "backpack",
+      "helmet"
+    ],
+    "event": "Manali Winter Trip",
+    "category": "photo",
+    "visual_tags": [
+      "snow",
+      "mountains",
+      "bicycle",
+      "cycling",
+      "riding",
+      "trail"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-137",
+    "filename": "photo-137.svg",
+    "title": "Bengaluru Nandi Hills Sunrise Biking Trip",
+    "description": "Early morning bicycle ride to Nandi Hills viewpoint with Coworker Sarah.",
+    "date": "2024-06-10",
+    "year": 2024,
+    "month": 6,
+    "season": "summer",
+    "location": {
+      "name": "Nandi Hills Viewpoint",
+      "city": "Bengaluru",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Coworker Sarah"
+    ],
+    "activities": [
+      "cycling",
+      "riding"
+    ],
+    "objects": [
+      "bicycle",
+      "helmet"
+    ],
+    "event": "Bengaluru Cycling Trip",
+    "category": "photo",
+    "visual_tags": [
+      "sunrise",
+      "hills",
+      "bicycle",
+      "cycling",
+      "viewpoint"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-138",
+    "filename": "photo-138.svg",
+    "title": "Sunday Coffee and Breakfast with Roommate at Blue Tokai Café",
+    "description": "Sitting at café table having cappuccino and avocado toast with roommate Siddharth.",
+    "date": "2024-08-04",
+    "year": 2024,
+    "month": 8,
+    "season": "summer",
+    "location": {
+      "name": "Blue Tokai Café Khan Market",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "self",
+      "Roommate Siddharth"
+    ],
+    "activities": [
+      "sitting at café",
+      "eating"
+    ],
+    "objects": [
+      "coffee",
+      "laptop",
+      "phone"
+    ],
+    "event": "Weekend Breakfast",
+    "category": "photo",
+    "visual_tags": [
+      "café",
+      "coffee cup",
+      "roommate",
+      "breakfast",
+      "sitting at café"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-139",
+    "filename": "photo-139.svg",
+    "title": "Working on Laptop with Coworker Priya at Café",
+    "description": "Laptops open on wooden café table working on project presentation.",
+    "date": "2024-09-12",
+    "year": 2024,
+    "month": 9,
+    "season": "autumn",
+    "location": {
+      "name": "Third Wave Coffee",
+      "city": "Bengaluru",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "self",
+      "Coworker Priya"
+    ],
+    "activities": [
+      "studying",
+      "sitting at café"
+    ],
+    "objects": [
+      "laptop",
+      "coffee"
+    ],
+    "event": "Work Session",
+    "category": "photo",
+    "visual_tags": [
+      "café",
+      "laptop",
+      "office work",
+      "coworker"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-140",
+    "filename": "photo-140.svg",
+    "title": "Night Drive Selfie with Cousin Rahul in Delhi",
+    "description": "Selfie inside car during late night drive on Ring Road with Cousin Rahul.",
+    "date": "2024-11-02",
+    "year": 2024,
+    "month": 11,
+    "season": "autumn",
+    "location": {
+      "name": "Delhi Ring Road",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "indoors"
+    },
+    "people": [
+      "self",
+      "Cousin Rahul"
+    ],
+    "activities": [
+      "driving",
+      "taking selfies"
+    ],
+    "objects": [
+      "car",
+      "phone"
+    ],
+    "event": "Night Drive",
+    "category": "photo",
+    "visual_tags": [
+      "selfie",
+      "car interior",
+      "night drive",
+      "cousin"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-141",
+    "filename": "photo-141.svg",
+    "title": "Sunset Over Marine Drive Promenade Mumbai",
+    "description": "Sunset orange sky over the Arabian Sea waves along Marine Drive promenade.",
+    "date": "2024-02-18",
+    "year": 2024,
+    "month": 2,
+    "season": "winter",
+    "location": {
+      "name": "Marine Drive",
+      "city": "Mumbai",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self"
+    ],
+    "activities": [
+      "walking"
+    ],
+    "objects": [
+      "camera"
+    ],
+    "event": "Mumbai Weekend Trip",
+    "category": "photo",
+    "visual_tags": [
+      "sunset",
+      "marine drive",
+      "ocean",
+      "sea",
+      "skyline"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-142",
+    "filename": "photo-142.svg",
+    "title": "Bicycle Ride in Lodhi Gardens Delhi",
+    "description": "Riding green vintage bicycle along paved paths past ancient tombs in Lodhi Gardens.",
+    "date": "2024-03-24",
+    "year": 2024,
+    "month": 3,
+    "season": "spring",
+    "location": {
+      "name": "Lodhi Gardens",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self"
+    ],
+    "activities": [
+      "cycling",
+      "riding"
+    ],
+    "objects": [
+      "bicycle"
+    ],
+    "event": "Spring Ride",
+    "category": "photo",
+    "visual_tags": [
+      "bicycle",
+      "cycling",
+      "park",
+      "garden",
+      "riding"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-143",
+    "filename": "photo-143.svg",
+    "title": "Jaipur Amer Fort Sunset Overlook",
+    "description": "Panoramic sunset landscape over the hills surrounding Amer Fort in Jaipur.",
+    "date": "2023-10-18",
+    "year": 2023,
+    "month": 10,
+    "season": "autumn",
+    "location": {
+      "name": "Amer Fort",
+      "city": "Jaipur",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Mom"
+    ],
+    "activities": [
+      "sightseeing"
+    ],
+    "objects": [
+      "camera"
+    ],
+    "event": "Jaipur Family Trip",
+    "category": "photo",
+    "visual_tags": [
+      "sunset",
+      "fort",
+      "palace",
+      "landscape",
+      "jaipur"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-144",
+    "filename": "photo-144.svg",
+    "title": "MakeMyTrip Hotel Booking Confirmation Screenshot",
+    "description": "App screenshot for Manali mountain resort hotel booking confirmation.",
+    "date": "2023-12-10",
+    "year": 2023,
+    "month": 12,
+    "season": "winter",
+    "location": {
+      "name": "MakeMyTrip App",
+      "city": "Manali",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "ticket",
+      "document"
+    ],
+    "event": "Trip Booking",
+    "category": "screenshot",
+    "visual_tags": [
+      "booking confirmation",
+      "makemytrip",
+      "hotel booking",
+      "screenshot"
+    ],
+    "ocr_text": "MakeMyTrip Booking Confirmed Hotel Snow Crest Manali Check-in 14 Jan 2024 Total Paid INR 8200",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-145",
+    "filename": "photo-145.svg",
+    "title": "OTP Security Verification Screenshot",
+    "description": "SMS notification screenshot showing 6-digit security OTP code.",
+    "date": "2024-06-01",
+    "year": 2024,
+    "month": 6,
+    "season": "summer",
+    "location": {
+      "name": "SMS Messaging",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "phone"
+    ],
+    "event": "Security Login",
+    "category": "screenshot",
+    "visual_tags": [
+      "otp screenshot",
+      "security",
+      "sms",
+      "verification"
+    ],
+    "ocr_text": "Your One Time Password (OTP) for login is 948201. Valid for 10 minutes. Do not share.",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-146",
+    "filename": "photo-146.svg",
+    "title": "Passport Scan Copy Document",
+    "description": "First page scan document of Indian passport for visa application.",
+    "date": "2024-01-10",
+    "year": 2024,
+    "month": 1,
+    "season": "winter",
+    "location": {
+      "name": "Passport Office",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [
+      "self"
+    ],
+    "activities": [],
+    "objects": [
+      "passport",
+      "document",
+      "id card"
+    ],
+    "event": "Visa Application",
+    "category": "document",
+    "visual_tags": [
+      "passport",
+      "document",
+      "id card",
+      "official scan"
+    ],
+    "ocr_text": "Republic of India Passport Surname: Kumar Given Name: Alex Passport No: Z9081245",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-147",
+    "filename": "photo-147.svg",
+    "title": "Starbucks Coffee Receipt Photo",
+    "description": "Printed receipt on wooden café table next to iced latte.",
+    "date": "2024-07-22",
+    "year": 2024,
+    "month": 7,
+    "season": "summer",
+    "location": {
+      "name": "Starbucks Cyber Hub",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "receipt",
+      "coffee",
+      "bill"
+    ],
+    "event": "Coffee Break",
+    "category": "document",
+    "visual_tags": [
+      "receipt",
+      "coffee receipt",
+      "starbucks",
+      "bill"
+    ],
+    "ocr_text": "Starbucks Coffee Tax Invoice Iced Caramel Macchiato INR 375 Paid via Card",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-148",
+    "filename": "photo-148.svg",
+    "title": "Sunset Over Yamuna Ghat Sunset Silhouette",
+    "description": "Silhouette of migratory birds flying past red sunset sky in Old Delhi.",
+    "date": "2024-11-10",
+    "year": 2024,
+    "month": 11,
+    "season": "autumn",
+    "location": {
+      "name": "Yamuna Ghat",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self"
+    ],
+    "activities": [
+      "walking"
+    ],
+    "objects": [
+      "camera"
+    ],
+    "event": "Photo Walk",
+    "category": "photo",
+    "visual_tags": [
+      "sunset",
+      "silhouette",
+      "birds",
+      "river",
+      "delhi"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-149",
+    "filename": "photo-149.svg",
+    "title": "Cousin Rahul Beach Walk in Mumbai Juhu",
+    "description": "Walking along Juhu Beach shoreline with Cousin Rahul during evening sea breeze.",
+    "date": "2024-02-17",
+    "year": 2024,
+    "month": 2,
+    "season": "winter",
+    "location": {
+      "name": "Juhu Beach",
+      "city": "Mumbai",
+      "country": "India",
+      "setting": "outdoors"
+    },
+    "people": [
+      "self",
+      "Cousin Rahul"
+    ],
+    "activities": [
+      "walking"
+    ],
+    "objects": [
+      "sandals"
+    ],
+    "event": "Mumbai Trip",
+    "category": "photo",
+    "visual_tags": [
+      "beach",
+      "cousin",
+      "mumbai",
+      "ocean",
+      "walking"
+    ],
+    "ocr_text": "",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  },
+  {
+    "id": "photo-150",
+    "filename": "photo-150.svg",
+    "title": "BookMyShow Movie Ticket Screenshot",
+    "description": "Digital cinema ticket screenshot for weekend blockbuster movie.",
+    "date": "2024-06-22",
+    "year": 2024,
+    "month": 6,
+    "season": "summer",
+    "location": {
+      "name": "PVR Directors Cut",
+      "city": "Delhi",
+      "country": "India",
+      "setting": "digital"
+    },
+    "people": [],
+    "activities": [],
+    "objects": [
+      "ticket"
+    ],
+    "event": "Movie Night",
+    "category": "screenshot",
+    "visual_tags": [
+      "ticket screenshot",
+      "bookmyshow",
+      "pvr movie",
+      "screenshot"
+    ],
+    "ocr_text": "PVR Cinemas Ticket Booking Confirmed Audi 4 Seat F-10 & F-11 Total INR 900",
+    "source": "controlled_representative_dataset",
+    "license": "CC-BY-4.0-Representative"
+  }
+]

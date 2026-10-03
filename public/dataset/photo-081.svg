@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-photo-081" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#15803d" />
+      <stop offset="100%" stop-color="#22c55e" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bg-photo-081)" />
+  
+  <!-- Visual Pattern / Card Content -->
+  <g filter="url(#shadow)">
+    <rect x="60" y="60" width="680" height="480" rx="16" fill="#ffffff" fill-opacity="0.15" stroke="#ffffff" stroke-opacity="0.3" stroke-width="2" />
+    
+    <!-- Icon/Illustration Center -->
+    <text x="400" y="260" font-family="sans-serif" font-size="72" text-anchor="middle" fill="#ffffff">🐕</text>
+    
+    <!-- Title / Content -->
+    <text x="400" y="340" font-family="sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#ffffff">Pet Dog Playing in Lawn #11</text>
+    
+    <!-- Subtitle Category Badge -->
+    <rect x="330" y="370" width="140" height="32" rx="16" fill="rgba(255,255,255,0.25)" />
+    <text x="400" y="391" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">PHOTO</text>
+    
+    <!-- Tags Footer -->
+    <text x="400" y="450" font-family="sans-serif" font-size="16" text-anchor="middle" fill="rgba(255,255,255,0.85)">Tags: pet, dog, lawn, playing</text>
+  </g>
+  
+  <!-- ID Badge Header -->
+  <rect x="80" y="80" width="110" height="30" rx="6" fill="rgba(0,0,0,0.4)" />
+  <text x="135" y="100" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">photo-081</text>
+</svg>

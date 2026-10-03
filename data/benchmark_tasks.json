@@ -1,0 +1,132 @@
+[
+  {
+    "id": "task-1",
+    "title": "Compound Person/Activity/Trip Query",
+    "target_photo_id": "photo-001",
+    "prompt": "Alex riding a mountain bike on the forest trail in summer 2024",
+    "expected_clues": {
+      "people": [
+        "Alex"
+      ],
+      "activities": [
+        "biking",
+        "riding mountain bike"
+      ],
+      "time_frame": {
+        "year": 2024,
+        "season": "summer"
+      },
+      "visual_tags": [
+        "mountain bike",
+        "forest",
+        "trail"
+      ]
+    },
+    "known_near_miss_ids": [
+      "photo-002",
+      "photo-003",
+      "photo-004",
+      "photo-006",
+      "photo-007",
+      "photo-008",
+      "photo-010"
+    ],
+    "expected_recovery_dimensions": [
+      "activities",
+      "people",
+      "category"
+    ]
+  },
+  {
+    "id": "task-2",
+    "title": "Place/Event Query",
+    "target_photo_id": "photo-025",
+    "prompt": "Sunset over the beach during our trip to Goa in December 2023",
+    "expected_clues": {
+      "location": {
+        "city": "Goa",
+        "name": "Vagator Beach"
+      },
+      "time_frame": {
+        "year": 2023,
+        "month": 12,
+        "season": "winter"
+      },
+      "visual_tags": [
+        "sunset",
+        "beach",
+        "ocean",
+        "goa"
+      ]
+    },
+    "known_near_miss_ids": [
+      "photo-013",
+      "photo-014",
+      "photo-015",
+      "photo-017",
+      "photo-019",
+      "photo-021",
+      "photo-026"
+    ],
+    "expected_recovery_dimensions": [
+      "location",
+      "time_frame",
+      "visual_tags"
+    ]
+  },
+  {
+    "id": "task-3",
+    "title": "Visually Ambiguous Activity Query",
+    "target_photo_id": "photo-031",
+    "prompt": "Playing acoustic guitar by the campfire at night",
+    "expected_clues": {
+      "activities": [
+        "playing acoustic guitar"
+      ],
+      "objects": [
+        "acoustic guitar",
+        "campfire"
+      ],
+      "time_of_day": "night",
+      "setting": "outdoors"
+    },
+    "known_near_miss_ids": [
+      "photo-027",
+      "photo-028",
+      "photo-029",
+      "photo-030",
+      "photo-032",
+      "photo-033",
+      "photo-034"
+    ],
+    "expected_recovery_dimensions": [
+      "objects",
+      "setting",
+      "activities"
+    ]
+  },
+  {
+    "id": "task-4",
+    "title": "Screenshot/Category/Text Query",
+    "target_photo_id": "photo-046",
+    "prompt": "Concert ticket screenshot for Coldplay with order confirmation code",
+    "expected_clues": {
+      "category": "screenshot",
+      "event": "Coldplay Music of the Spheres Tour",
+      "ocr_text": "Coldplay CP-98234 ticket"
+    },
+    "known_near_miss_ids": [
+      "photo-047",
+      "photo-048",
+      "photo-049",
+      "photo-050",
+      "photo-051",
+      "photo-055"
+    ],
+    "expected_recovery_dimensions": [
+      "category",
+      "ocr_text",
+      "event"
+    ]
+  }
+]
